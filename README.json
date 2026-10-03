@@ -13,7 +13,7 @@
                 {
                   "node_type": "item",
                   "title": "HEAD",
-                  "description": null,
+                  "description": "joshbuchea/HEAD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -26,7 +26,7 @@
                     "open_issues": 1,
                     "owner": "joshbuchea",
                     "repo": "HEAD",
-                    "stars": 30272,
+                    "stars": 30273,
                     "topics": [
                       "favicon",
                       "frontend-development",
@@ -67,7 +67,7 @@
                 {
                   "node_type": "item",
                   "title": "favicon",
-                  "description": null,
+                  "description": "audreyfeldroy/favicon-cheat-sheet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -100,7 +100,7 @@
                     {
                       "node_type": "item",
                       "title": "Service Workers Explained",
-                      "description": null,
+                      "description": "w3c/ServiceWorker",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -135,7 +135,7 @@
                     {
                       "node_type": "item",
                       "title": "Workshop - Web Audio School",
-                      "description": null,
+                      "description": "mmckegg/web-audio-school",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -165,7 +165,7 @@
                 {
                   "node_type": "item",
                   "title": "WebXR / Immersive Web",
-                  "description": null,
+                  "description": "immersive-web/webxr",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -233,7 +233,7 @@
                 {
                   "node_type": "item",
                   "title": "You Don't Need JavaScript",
-                  "description": null,
+                  "description": "you-dont-need/You-Dont-Need-JavaScript",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -268,7 +268,7 @@
                 {
                   "node_type": "item",
                   "title": "Houdini",
-                  "description": null,
+                  "description": "w3c/css-houdini-drafts",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -326,7 +326,7 @@
                             "open_issues": 236,
                             "owner": "styled-system",
                             "repo": "styled-system",
-                            "stars": 7861,
+                            "stars": 7860,
                             "topics": [
                               "colors",
                               "css",
@@ -349,7 +349,7 @@
                         {
                           "node_type": "item",
                           "title": "styled-tools",
-                          "description": null,
+                          "description": "diegohaz/styled-tools",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -405,7 +405,7 @@
                         {
                           "node_type": "item",
                           "title": "styled-components-breakpoint",
-                          "description": null,
+                          "description": "jameslnewell/styled-components-breakpoint",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -443,7 +443,7 @@
                     "open_issues": 24,
                     "owner": "styled-components",
                     "repo": "styled-components",
-                    "stars": 41098,
+                    "stars": 41097,
                     "topics": [
                       "css",
                       "css-in-js",
@@ -458,7 +458,7 @@
                 {
                   "node_type": "item",
                   "title": "CSS Modules",
-                  "description": null,
+                  "description": "css-modules/css-modules",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -516,7 +516,7 @@
                     {
                       "node_type": "item",
                       "title": "OOCSS",
-                      "description": null,
+                      "description": "stubbornella/oocss",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -544,7 +544,7 @@
                     {
                       "node_type": "item",
                       "title": "Airbnb CSS-in-JavaScript Style Guide",
-                      "description": null,
+                      "description": "airbnb/javascript",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -554,7 +554,7 @@
                         "language": "JavaScript",
                         "license": "MIT",
                         "last_commit": "2026-04-16T19:24:09Z",
-                        "open_issues": 167,
+                        "open_issues": 168,
                         "owner": "airbnb",
                         "repo": "javascript",
                         "stars": 148301,
@@ -580,7 +580,7 @@
                     {
                       "node_type": "item",
                       "title": "Airbnb CSS / Sass Styleguide",
-                      "description": null,
+                      "description": "airbnb/css",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -601,7 +601,7 @@
                     {
                       "node_type": "item",
                       "title": "Idiomatic CSS",
-                      "description": null,
+                      "description": "necolas/idiomatic-css",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -638,7 +638,7 @@
                 {
                   "node_type": "item",
                   "title": "Overview of ECMAScript 6 features",
-                  "description": null,
+                  "description": "lukehoban/es6features",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -676,7 +676,7 @@
                         {
                           "node_type": "item",
                           "title": "The Evolution of JavaScript Modularity",
-                          "description": null,
+                          "description": "myshov/history-of-javascript",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -712,7 +712,7 @@
                     {
                       "node_type": "item",
                       "title": "You Don't Know JS (book series)",
-                      "description": null,
+                      "description": "getify/You-Dont-Know-JS",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -725,7 +725,7 @@
                         "open_issues": 2,
                         "owner": "getify",
                         "repo": "You-Dont-Know-JS",
-                        "stars": 185011,
+                        "stars": 185009,
                         "topics": [
                           "async",
                           "book",
@@ -756,7 +756,7 @@
                 {
                   "node_type": "item",
                   "title": "Observables",
-                  "description": null,
+                  "description": "tc39/proposal-observable",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -777,7 +777,7 @@
                 {
                   "node_type": "item",
                   "title": "Decorators",
-                  "description": null,
+                  "description": "wycats/javascript-decorators",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -819,7 +819,7 @@
                 {
                   "node_type": "item",
                   "title": "Dynamic Import ()",
-                  "description": null,
+                  "description": "tc39/proposal-dynamic-import",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -840,7 +840,7 @@
                 {
                   "node_type": "item",
                   "title": "Class Fields & Static Properties",
-                  "description": null,
+                  "description": "tc39/proposal-class-public-fields",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -868,7 +868,7 @@
                 {
                   "node_type": "item",
                   "title": "Lodash's FP Guide",
-                  "description": null,
+                  "description": "lodash/lodash",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -878,7 +878,7 @@
                     "language": "JavaScript",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-01T23:04:09Z",
-                    "open_issues": 117,
+                    "open_issues": 118,
                     "owner": "lodash",
                     "repo": "lodash",
                     "stars": 61260,
@@ -894,7 +894,7 @@
                 {
                   "node_type": "item",
                   "title": "Functional Programming Jargon",
-                  "description": null,
+                  "description": "hemanth/functional-programming-jargon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -922,7 +922,7 @@
                 {
                   "node_type": "item",
                   "title": "Fantasy Land",
-                  "description": null,
+                  "description": "fantasyland/fantasy-land",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -953,7 +953,7 @@
                     {
                       "node_type": "item",
                       "title": "Functional-Light JavaScript",
-                      "description": null,
+                      "description": "getify/Functional-Light-JS",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -990,7 +990,7 @@
                 {
                   "node_type": "item",
                   "title": "A General Theory of Reactivity",
-                  "description": null,
+                  "description": "kriskowal/gtor",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1018,12 +1018,12 @@
                 {
                   "node_type": "item",
                   "title": "JSDoc Tags",
-                  "description": null,
+                  "description": "google/closure-compiler",
                   "children": [
                     {
                       "node_type": "item",
                       "title": "jsdoc-to-assert",
-                      "description": null,
+                      "description": "azu/jsdoc-to-assert",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1049,11 +1049,11 @@
                     "id": 18845024,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T19:00:22Z",
+                    "last_commit": "2026-10-02T23:10:30Z",
                     "open_issues": 922,
                     "owner": "google",
                     "repo": "closure-compiler",
-                    "stars": 7690,
+                    "stars": 7689,
                     "topics": [
                       "closure-compiler",
                       "javascript",
@@ -1073,7 +1073,7 @@
                 {
                   "node_type": "item",
                   "title": "Napa.js",
-                  "description": null,
+                  "description": "microsoft/napajs",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1109,7 +1109,7 @@
                 {
                   "node_type": "item",
                   "title": "Airbnb JavaScript Style Guide",
-                  "description": null,
+                  "description": "airbnb/javascript",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1119,7 +1119,7 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-04-16T19:24:09Z",
-                    "open_issues": 167,
+                    "open_issues": 168,
                     "owner": "airbnb",
                     "repo": "javascript",
                     "stars": 148301,
@@ -1145,7 +1145,7 @@
                 {
                   "node_type": "item",
                   "title": "Clean Code JavaScript",
-                  "description": null,
+                  "description": "ryanmcdermott/clean-code-javascript",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1158,7 +1158,7 @@
                     "open_issues": 123,
                     "owner": "ryanmcdermott",
                     "repo": "clean-code-javascript",
-                    "stars": 94758,
+                    "stars": 94757,
                     "topics": [
                       "best-practices",
                       "clean-architecture",
@@ -1174,7 +1174,7 @@
                 {
                   "node_type": "item",
                   "title": "Node.js Style Guide",
-                  "description": null,
+                  "description": "felixge/node-style-guide",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1209,7 +1209,7 @@
                 {
                   "node_type": "item",
                   "title": "WebAssembly High-Level Goals",
-                  "description": null,
+                  "description": "WebAssembly/design",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1222,7 +1222,7 @@
                     "open_issues": 185,
                     "owner": "WebAssembly",
                     "repo": "design",
-                    "stars": 11619,
+                    "stars": 11620,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:47:24.289Z"
@@ -1230,7 +1230,7 @@
                 {
                   "node_type": "item",
                   "title": "Minimum Viable Product",
-                  "description": null,
+                  "description": "WebAssembly/design",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1243,7 +1243,7 @@
                     "open_issues": 185,
                     "owner": "WebAssembly",
                     "repo": "design",
-                    "stars": 11619,
+                    "stars": 11620,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:47:24.289Z"
@@ -1258,7 +1258,7 @@
                 {
                   "node_type": "item",
                   "title": "Features to add after the MVP",
-                  "description": null,
+                  "description": "WebAssembly/design",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1271,7 +1271,7 @@
                     "open_issues": 185,
                     "owner": "WebAssembly",
                     "repo": "design",
-                    "stars": 11619,
+                    "stars": 11620,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:47:24.289Z"
@@ -1279,7 +1279,7 @@
                 {
                   "node_type": "item",
                   "title": "WebAssembly proposals",
-                  "description": null,
+                  "description": "WebAssembly/proposals",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1316,7 +1316,7 @@
                 {
                   "node_type": "item",
                   "title": "The Art of Node",
-                  "description": null,
+                  "description": "max-mapper/art-of-node",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1344,7 +1344,7 @@
                 {
                   "node_type": "item",
                   "title": "Node.js Best Practices",
-                  "description": null,
+                  "description": "alanjames1987/Node.js-Best-Practices",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1425,7 +1425,7 @@
                         "open_issues": 362,
                         "owner": "yui",
                         "repo": "yui3",
-                        "stars": 4160,
+                        "stars": 4159,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:47:24.289Z"
@@ -1475,7 +1475,7 @@
                     {
                       "node_type": "item",
                       "title": "Node.js Release Working Group",
-                      "description": null,
+                      "description": "nodejs/Release",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1513,7 +1513,7 @@
                     {
                       "node_type": "item",
                       "title": "Meeting Notes",
-                      "description": null,
+                      "description": "nodejs/TSC",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1562,7 +1562,7 @@
                     {
                       "node_type": "item",
                       "title": "Status, process, and documents for ECMA262",
-                      "description": null,
+                      "description": "tc39/ecma262",
                       "children": [
                         {
                           "node_type": "item",
@@ -1626,12 +1626,12 @@
                 {
                   "node_type": "item",
                   "title": "Chakra",
-                  "description": null,
+                  "description": "chakra-core/ChakraCore",
                   "children": [
                     {
                       "node_type": "item",
                       "title": "Architecture Overview",
-                      "description": null,
+                      "description": "chakra-core/ChakraCore",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1677,7 +1677,7 @@
                         {
                           "node_type": "item",
                           "title": "Roadmap",
-                          "description": null,
+                          "description": "chakra-core/ChakraCore",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -1769,7 +1769,7 @@
                     {
                       "node_type": "item",
                       "title": "Top Mistakes by Developers new to Cordova/Phonegap",
-                      "description": null,
+                      "description": "jessemonroy650/top-phonegap-mistakes",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1790,7 +1790,7 @@
                     {
                       "node_type": "item",
                       "title": "Curated Plugins - Awesome Cordova Plugins",
-                      "description": null,
+                      "description": "rdn87/awesome-cordova-plugins",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1825,7 +1825,7 @@
                     {
                       "node_type": "item",
                       "title": "Examples - 30 Days of React Native",
-                      "description": null,
+                      "description": "fangwei716/30-days-of-react-native",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1849,7 +1849,7 @@
                     {
                       "node_type": "item",
                       "title": "React Native Styling Cheat Sheet",
-                      "description": null,
+                      "description": "vhpoet/react-native-styling-cheat-sheet",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1925,7 +1925,7 @@
                 {
                   "node_type": "item",
                   "title": "ResizeObserver Polyfill",
-                  "description": null,
+                  "description": "que-etc/resize-observer-polyfill",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1958,7 +1958,7 @@
                 {
                   "node_type": "item",
                   "title": "XHR - window.fetch Polyfill",
-                  "description": null,
+                  "description": "JakeChampion/fetch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1984,7 +1984,7 @@
                 {
                   "node_type": "item",
                   "title": "Server-Sent Events - EventSource Polyfill",
-                  "description": null,
+                  "description": "amvtek/EventSource",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2104,7 +2104,7 @@
                         {
                           "node_type": "item",
                           "title": "Conventional Changelog",
-                          "description": null,
+                          "description": "conventional-changelog/conventional-changelog",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2141,7 +2141,7 @@
                     {
                       "node_type": "item",
                       "title": "module best practices",
-                      "description": null,
+                      "description": "mattdesl/module-best-practices",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2167,7 +2167,7 @@
                         {
                           "node_type": "item",
                           "title": "Small focused modules",
-                          "description": null,
+                          "description": "sindresorhus/ama",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2235,7 +2235,7 @@
                         "open_issues": 104,
                         "owner": "medialize",
                         "repo": "URI.js",
-                        "stars": 6225,
+                        "stars": 6224,
                         "topics": [
                           "javascript",
                           "rfc-2732",
@@ -2263,7 +2263,7 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
-                        "description": "UAParser.js: The Go-To User-Agent Tool for Teams That Build the Web. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser or Node",
+                        "description": "UAParser.js: The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser or Node",
                         "homepage": "https://uaparser.dev/",
                         "id": 3320710,
                         "language": "JavaScript",
@@ -2296,7 +2296,7 @@
                     {
                       "node_type": "item",
                       "title": "String Validation - validator.js",
-                      "description": null,
+                      "description": "validatorjs/validator.js",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2370,7 +2370,7 @@
                     {
                       "node_type": "item",
                       "title": "Low-level - Isomorphic Fetch",
-                      "description": null,
+                      "description": "matthew-andrews/isomorphic-fetch",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2391,7 +2391,7 @@
                     {
                       "node_type": "item",
                       "title": "GraphQL - lokka",
-                      "description": null,
+                      "description": "kadirahq/lokka",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2417,7 +2417,7 @@
                         {
                           "node_type": "item",
                           "title": "Based on Fetch API - hifetch",
-                          "description": null,
+                          "description": "dexteryy/Project-WebCube",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2478,7 +2478,7 @@
                     "id": 1999522,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T19:41:33Z",
+                    "last_commit": "2026-10-02T22:57:20Z",
                     "open_issues": 121,
                     "owner": "spencermountain",
                     "repo": "compromise",
@@ -2533,8 +2533,8 @@
                             "id": 10270250,
                             "language": "JavaScript",
                             "license": "MIT",
-                            "last_commit": "2026-10-02T18:23:54Z",
-                            "open_issues": 1401,
+                            "last_commit": "2026-10-02T21:13:55Z",
+                            "open_issues": 1406,
                             "owner": "react",
                             "repo": "react",
                             "stars": 250862,
@@ -2552,7 +2552,7 @@
                         {
                           "node_type": "item",
                           "title": "Pete Hunt's react-howto",
-                          "description": null,
+                          "description": "petehunt/react-howto",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2565,7 +2565,7 @@
                             "open_issues": 38,
                             "owner": "petehunt",
                             "repo": "react-howto",
-                            "stars": 11518,
+                            "stars": 11517,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T23:47:24.289Z"
@@ -2573,7 +2573,7 @@
                         {
                           "node_type": "item",
                           "title": "React - Basic Theoretical Concepts",
-                          "description": null,
+                          "description": "reactjs/react-basic",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2586,7 +2586,7 @@
                             "open_issues": 3,
                             "owner": "reactjs",
                             "repo": "react-basic",
-                            "stars": 4439,
+                            "stars": 4438,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T23:47:24.289Z"
@@ -2612,7 +2612,7 @@
                                 "open_issues": 11,
                                 "owner": "vasanthk",
                                 "repo": "react-bits",
-                                "stars": 17418,
+                                "stars": 17417,
                                 "topics": [
                                   "best-practices",
                                   "design-patterns",
@@ -2637,7 +2637,7 @@
                         {
                           "node_type": "item",
                           "title": "Recompose",
-                          "description": null,
+                          "description": "acdlite/recompose",
                           "children": [],
                           "repo_info": {
                             "archived": true,
@@ -2667,7 +2667,7 @@
                     {
                       "node_type": "item",
                       "title": "vuera",
-                      "description": null,
+                      "description": "akxcv/vuera",
                       "children": [],
                       "repo_info": {
                         "archived": true,
@@ -2715,7 +2715,7 @@
                         {
                           "node_type": "item",
                           "title": "Notes of Dan Abramov's Redux course videos",
-                          "description": null,
+                          "description": "tayiorbeii/egghead.io_redux_course_notes",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2791,7 +2791,7 @@
                         {
                           "node_type": "item",
                           "title": "redux-saga",
-                          "description": null,
+                          "description": "redux-saga/redux-saga",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2891,7 +2891,7 @@
                 {
                   "node_type": "item",
                   "title": "Connected React Router",
-                  "description": null,
+                  "description": "supasate/connected-react-router",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2963,7 +2963,7 @@
                 {
                   "node_type": "item",
                   "title": "Next.js",
-                  "description": null,
+                  "description": "vercel/next.js",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2972,11 +2972,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T19:23:27Z",
-                    "open_issues": 3534,
+                    "last_commit": "2026-10-03T04:40:43Z",
+                    "open_issues": 3532,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 142995,
+                    "stars": 143020,
                     "topics": [
                       "blog",
                       "browser",
@@ -3012,7 +3012,7 @@
                     "open_issues": 2410,
                     "owner": "react",
                     "repo": "create-react-app",
-                    "stars": 103233,
+                    "stars": 103231,
                     "topics": [
                       "build-tools",
                       "react",
@@ -3024,7 +3024,7 @@
                 {
                   "node_type": "item",
                   "title": "JavaScript Stack from Scratch",
-                  "description": null,
+                  "description": "verekia/js-stack-from-scratch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3114,7 +3114,7 @@
                 {
                   "node_type": "item",
                   "title": "Flux Concepts",
-                  "description": null,
+                  "description": "facebookarchive/flux",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3127,7 +3127,7 @@
                     "open_issues": 6,
                     "owner": "facebookarchive",
                     "repo": "flux",
-                    "stars": 17435,
+                    "stars": 17433,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:47:24.289Z"
@@ -3149,7 +3149,7 @@
                 {
                   "node_type": "item",
                   "title": "WeUI",
-                  "description": null,
+                  "description": "Tencent/weui",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3175,7 +3175,7 @@
                 {
                   "node_type": "item",
                   "title": "Material Components for the web",
-                  "description": null,
+                  "description": "material-components/material-components-web",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3229,7 +3229,7 @@
                     "open_issues": 63,
                     "owner": "igorprado",
                     "repo": "react-notification-system",
-                    "stars": 2437,
+                    "stars": 2436,
                     "topics": [
                       "javascript",
                       "notifications",
@@ -3248,7 +3248,7 @@
                 {
                   "node_type": "item",
                   "title": "Slate",
-                  "description": null,
+                  "description": "ianstormtaylor/slate",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3283,7 +3283,7 @@
                     {
                       "node_type": "item",
                       "title": "Awesome Draft.js",
-                      "description": null,
+                      "description": "nikgraf/awesome-draft-js",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -3318,7 +3318,7 @@
                 {
                   "node_type": "item",
                   "title": "React Music",
-                  "description": null,
+                  "description": "FormidableLabs/react-music",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3346,7 +3346,7 @@
                 {
                   "node_type": "item",
                   "title": "Redux Auth",
-                  "description": null,
+                  "description": "lynndylanhurley/redux-auth",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3400,7 +3400,7 @@
                     "open_issues": 528,
                     "owner": "SortableJS",
                     "repo": "Sortable",
-                    "stars": 31187,
+                    "stars": 31186,
                     "topics": [
                       "drag",
                       "drag-and-drop",
@@ -3600,7 +3600,7 @@
                         "open_issues": 471,
                         "owner": "fabricjs",
                         "repo": "fabric.js",
-                        "stars": 31464,
+                        "stars": 31465,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:47:24.289Z"
@@ -3690,7 +3690,7 @@
                         "open_issues": 212,
                         "owner": "schteppe",
                         "repo": "cannon.js",
-                        "stars": 5003,
+                        "stars": 5004,
                         "topics": [
                           "javascript",
                           "physics-engine"
@@ -3715,7 +3715,7 @@
                     {
                       "node_type": "item",
                       "title": "Awesome D3",
-                      "description": null,
+                      "description": "wbkd/awesome-d3",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -3797,7 +3797,7 @@
                 {
                   "node_type": "item",
                   "title": "Security Guide for Developers",
-                  "description": null,
+                  "description": "FallibleInc/security-guide-for-developers",
                   "children": [
                     {
                       "node_type": "item",
@@ -3865,7 +3865,7 @@
                     {
                       "node_type": "item",
                       "title": "Serverless Framework",
-                      "description": null,
+                      "description": "serverless/serverless",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -3896,7 +3896,7 @@
                     {
                       "node_type": "item",
                       "title": "IronFunctions",
-                      "description": null,
+                      "description": "iron-io/functions",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -3936,7 +3936,7 @@
                     {
                       "node_type": "item",
                       "title": "graphql-resolvers",
-                      "description": null,
+                      "description": "lucasconstantino/graphql-resolvers",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -3975,7 +3975,7 @@
                     {
                       "node_type": "item",
                       "title": "JSON Schema Based Editor",
-                      "description": null,
+                      "description": "jdorn/json-editor",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4005,7 +4005,7 @@
                 {
                   "node_type": "item",
                   "title": "Botpress",
-                  "description": null,
+                  "description": "botpress/botpress",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4014,11 +4014,11 @@
                     "id": 73964895,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T18:09:22Z",
+                    "last_commit": "2026-10-02T20:16:32Z",
                     "open_issues": 53,
                     "owner": "botpress",
                     "repo": "botpress",
-                    "stars": 14931,
+                    "stars": 14932,
                     "topics": [
                       "agent",
                       "ai",
@@ -4039,7 +4039,7 @@
                 {
                   "node_type": "item",
                   "title": "Nodal",
-                  "description": null,
+                  "description": "keithwhor/nodal",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4115,7 +4115,7 @@
                 {
                   "node_type": "item",
                   "title": "svg-captcha",
-                  "description": null,
+                  "description": "produck/svg-captcha",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4154,7 +4154,7 @@
                     {
                       "node_type": "item",
                       "title": "Redis Client - ioredis",
-                      "description": null,
+                      "description": "redis/ioredis",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4231,7 +4231,7 @@
                 {
                   "node_type": "item",
                   "title": "Capture Screenshots - pageres",
-                  "description": null,
+                  "description": "sindresorhus/pageres",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4300,7 +4300,7 @@
                 {
                   "node_type": "item",
                   "title": "AVA",
-                  "description": null,
+                  "description": "avajs/ava",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4362,7 +4362,7 @@
                             {
                               "node_type": "item",
                               "title": "AWS Lambda - Lambdium",
-                              "description": null,
+                              "description": "smithclay/lambdium",
                               "children": [],
                               "repo_info": {
                                 "archived": false,
@@ -4396,11 +4396,11 @@
                             "id": 7613257,
                             "language": "Java",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-10-02T17:27:33Z",
-                            "open_issues": 192,
+                            "last_commit": "2026-10-03T00:59:23Z",
+                            "open_issues": 193,
                             "owner": "SeleniumHQ",
                             "repo": "selenium",
-                            "stars": 34516,
+                            "stars": 34518,
                             "topics": [
                               "dotnet",
                               "java",
@@ -4453,7 +4453,7 @@
                             {
                               "node_type": "item",
                               "title": "electron-prebuilt - Nightmare",
-                              "description": null,
+                              "description": "segment-boneyard/nightmare",
                               "children": [],
                               "repo_info": {
                                 "archived": false,
@@ -4531,7 +4531,7 @@
                         {
                           "node_type": "item",
                           "title": "lighthouse-ci/builder/Dockerfile.headless",
-                          "description": null,
+                          "description": "GoogleChromeLabs/lighthousebot",
                           "children": [],
                           "repo_info": {
                             "archived": true,
@@ -4576,7 +4576,7 @@
                     {
                       "node_type": "item",
                       "title": "stats.js",
-                      "description": null,
+                      "description": "mrdoob/stats.js",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4597,7 +4597,7 @@
                     {
                       "node_type": "item",
                       "title": "Speedracer",
-                      "description": null,
+                      "description": "speedracer/speedracer",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4610,7 +4610,7 @@
                         "open_issues": 7,
                         "owner": "speedracer",
                         "repo": "speedracer",
-                        "stars": 1848,
+                        "stars": 1847,
                         "topics": [
                           "chrome-headless",
                           "performance",
@@ -4710,7 +4710,7 @@
                 {
                   "node_type": "item",
                   "title": "GraphQL Voyager",
-                  "description": null,
+                  "description": "APIs-guru/graphql-voyager",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4751,7 +4751,7 @@
                 {
                   "node_type": "item",
                   "title": "PostCSS",
-                  "description": null,
+                  "description": "postcss/postcss",
                   "children": [
                     {
                       "node_type": "group",
@@ -4761,7 +4761,7 @@
                         {
                           "node_type": "item",
                           "title": "Autoprefixer",
-                          "description": null,
+                          "description": "postcss/autoprefixer",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -4793,7 +4793,7 @@
                         {
                           "node_type": "item",
                           "title": "Quantity Queries",
-                          "description": null,
+                          "description": "pascalduez/postcss-quantity-queries",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -4876,7 +4876,7 @@
                         {
                           "node_type": "item",
                           "title": "React Optimize",
-                          "description": null,
+                          "description": "jamiebuilds/babel-react-optimize",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -4902,7 +4902,7 @@
                             {
                               "node_type": "item",
                               "title": "Browserslist",
-                              "description": null,
+                              "description": "browserslist/browserslist",
                               "children": [],
                               "repo_info": {
                                 "archived": false,
@@ -4968,11 +4968,11 @@
                                 "id": 24560307,
                                 "language": "TypeScript",
                                 "license": "MIT",
-                                "last_commit": "2026-10-02T09:31:34Z",
-                                "open_issues": 770,
+                                "last_commit": "2026-10-02T22:40:03Z",
+                                "open_issues": 768,
                                 "owner": "babel",
                                 "repo": "babel",
-                                "stars": 44044,
+                                "stars": 44046,
                                 "topics": [
                                   "ast",
                                   "babel",
@@ -4988,7 +4988,7 @@
                             {
                               "node_type": "item",
                               "title": "Babel progress on ECMAScript proposals",
-                              "description": null,
+                              "description": "babel/proposals",
                               "children": [],
                               "repo_info": {
                                 "archived": false,
@@ -5045,7 +5045,7 @@
                             {
                               "node_type": "item",
                               "title": "add-module-exports",
-                              "description": null,
+                              "description": "59naga/babel-plugin-add-module-exports",
                               "children": [],
                               "repo_info": {
                                 "archived": false,
@@ -5075,7 +5075,7 @@
                             {
                               "node_type": "item",
                               "title": "React CSS Modules",
-                              "description": null,
+                              "description": "gajus/babel-plugin-react-css-modules",
                               "children": [],
                               "repo_info": {
                                 "archived": false,
@@ -5118,12 +5118,12 @@
                     {
                       "node_type": "item",
                       "title": "webpack-howto",
-                      "description": null,
+                      "description": "petehunt/webpack-howto",
                       "children": [
                         {
                           "node_type": "item",
                           "title": "webpack-blocks",
-                          "description": null,
+                          "description": "andywer/webpack-blocks",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -5206,7 +5206,7 @@
                             {
                               "node_type": "item",
                               "title": "HTML Webpack Template",
-                              "description": null,
+                              "description": "jaketrent/html-webpack-template",
                               "children": [],
                               "repo_info": {
                                 "archived": false,
@@ -5240,7 +5240,7 @@
                 {
                   "node_type": "item",
                   "title": "HTMLHint",
-                  "description": null,
+                  "description": "htmlhint/HTMLHint",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5311,7 +5311,7 @@
                         {
                           "node_type": "item",
                           "title": "eslint-config-react-app",
-                          "description": null,
+                          "description": "react/create-react-app",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -5324,7 +5324,7 @@
                             "open_issues": 2410,
                             "owner": "react",
                             "repo": "create-react-app",
-                            "stars": 103233,
+                            "stars": 103231,
                             "topics": [
                               "build-tools",
                               "react",
@@ -5345,7 +5345,7 @@
                     {
                       "node_type": "item",
                       "title": "flow-typed",
-                      "description": null,
+                      "description": "flow-typed/flow-typed",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -5382,7 +5382,7 @@
                 {
                   "node_type": "item",
                   "title": "HTMLMinifier",
-                  "description": null,
+                  "description": "kangax/html-minifier",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5395,7 +5395,7 @@
                     "open_issues": 107,
                     "owner": "kangax",
                     "repo": "html-minifier",
-                    "stars": 5028,
+                    "stars": 5027,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:47:24.289Z"
@@ -5481,7 +5481,7 @@
                     {
                       "node_type": "item",
                       "title": "svgo",
-                      "description": null,
+                      "description": "imagemin/imagemin-svgo",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -5502,7 +5502,7 @@
                     {
                       "node_type": "item",
                       "title": "gifsicle",
-                      "description": null,
+                      "description": "imagemin/imagemin-gifsicle",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -5549,7 +5549,7 @@
                         {
                           "node_type": "item",
                           "title": "Husky",
-                          "description": null,
+                          "description": "typicode/husky",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -5584,7 +5584,7 @@
                     {
                       "node_type": "item",
                       "title": "Gulpfile API",
-                      "description": null,
+                      "description": "gulpjs/gulp",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -5597,7 +5597,7 @@
                         "open_issues": 35,
                         "owner": "gulpjs",
                         "repo": "gulp",
-                        "stars": 32925,
+                        "stars": 32926,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:47:24.289Z"
@@ -5626,7 +5626,7 @@
                     {
                       "node_type": "item",
                       "title": "webpack-serve",
-                      "description": null,
+                      "description": "webpack-contrib/webpack-serve",
                       "children": [],
                       "repo_info": {
                         "archived": true,
@@ -5660,7 +5660,7 @@
                     {
                       "node_type": "item",
                       "title": "Reactotron",
-                      "description": null,
+                      "description": "infinitered/reactotron",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -5690,7 +5690,7 @@
                     {
                       "node_type": "item",
                       "title": "React Native Debugger",
-                      "description": null,
+                      "description": "jhen0409/react-native-debugger",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -5717,7 +5717,7 @@
                     {
                       "node_type": "item",
                       "title": "Electron - Devtron",
-                      "description": null,
+                      "description": "electron/devtron",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -5746,7 +5746,7 @@
                         {
                           "node_type": "item",
                           "title": "Redux DevTools",
-                          "description": null,
+                          "description": "reduxjs/redux-devtools",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -5755,7 +5755,7 @@
                             "id": 38565895,
                             "language": "TypeScript",
                             "license": "MIT",
-                            "last_commit": "2026-10-02T12:50:32Z",
+                            "last_commit": "2026-10-03T00:27:59Z",
                             "open_issues": 143,
                             "owner": "reduxjs",
                             "repo": "redux-devtools",
@@ -5797,7 +5797,7 @@
                             "id": 75882379,
                             "language": "TypeScript",
                             "license": "MIT",
-                            "last_commit": "2026-10-02T16:42:51Z",
+                            "last_commit": "2026-10-02T20:49:02Z",
                             "open_issues": 52,
                             "owner": "apollographql",
                             "repo": "apollo-client-devtools",
@@ -5916,7 +5916,7 @@
                     {
                       "node_type": "item",
                       "title": "Tamper Chrome",
-                      "description": null,
+                      "description": "google/tamperchrome",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -5961,7 +5961,7 @@
                         {
                           "node_type": "item",
                           "title": "Hypernova",
-                          "description": null,
+                          "description": "airbnb/hypernova",
                           "children": [],
                           "repo_info": {
                             "archived": true,
@@ -6008,11 +6008,11 @@
                                     "id": 6780767,
                                     "language": "Python",
                                     "license": "NOASSERTION",
-                                    "last_commit": "2026-10-02T17:53:27Z",
+                                    "last_commit": "2026-10-02T22:38:36Z",
                                     "open_issues": 753,
                                     "owner": "aws",
                                     "repo": "aws-cli",
-                                    "stars": 17286,
+                                    "stars": 17287,
                                     "topics": [
                                       "aws",
                                       "aws-cli",
@@ -6041,7 +6041,7 @@
                             {
                               "node_type": "item",
                               "title": "Auto Update",
-                              "description": null,
+                              "description": "electron-userland/electron-builder",
                               "children": [],
                               "repo_info": {
                                 "archived": false,
@@ -6050,7 +6050,7 @@
                                 "id": 35998691,
                                 "language": "TypeScript",
                                 "license": "MIT",
-                                "last_commit": "2026-10-02T17:41:22Z",
+                                "last_commit": "2026-10-03T00:08:20Z",
                                 "open_issues": 70,
                                 "owner": "electron-userland",
                                 "repo": "electron-builder",
@@ -6133,7 +6133,7 @@
                                 {
                                   "node_type": "item",
                                   "title": "Docker Curriculum",
-                                  "description": null,
+                                  "description": "prakhar1989/docker-curriculum",
                                   "children": [],
                                   "repo_info": {
                                     "archived": false,
@@ -6198,7 +6198,7 @@
                             {
                               "node_type": "item",
                               "title": "docker-lambda",
-                              "description": null,
+                              "description": "lambci/docker-lambda",
                               "children": [],
                               "repo_info": {
                                 "archived": true,
@@ -6274,7 +6274,7 @@
                 {
                   "node_type": "item",
                   "title": "The Art of Command Line",
-                  "description": null,
+                  "description": "jlevy/the-art-of-command-line",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6287,7 +6287,7 @@
                     "open_issues": 256,
                     "owner": "jlevy",
                     "repo": "the-art-of-command-line",
-                    "stars": 162563,
+                    "stars": 162559,
                     "topics": [
                       "bash",
                       "documentation",
@@ -6314,7 +6314,7 @@
                     {
                       "node_type": "item",
                       "title": "iTerm Color Schemes",
-                      "description": null,
+                      "description": "mbadolato/iTerm2-Color-Schemes",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6323,11 +6323,11 @@
                         "id": 1554093,
                         "language": "Shell",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-02T17:59:20Z",
-                        "open_issues": 17,
+                        "last_commit": "2026-10-02T23:02:52Z",
+                        "open_issues": 29,
                         "owner": "mbadolato",
                         "repo": "iTerm2-Color-Schemes",
-                        "stars": 27240,
+                        "stars": 27241,
                         "topics": [
                           "color-scheme",
                           "freebsd-vt",
@@ -6363,7 +6363,7 @@
                     {
                       "node_type": "item",
                       "title": "Awesome Hyper",
-                      "description": null,
+                      "description": "bnb/awesome-hyper",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6376,7 +6376,7 @@
                         "open_issues": 23,
                         "owner": "bnb",
                         "repo": "awesome-hyper",
-                        "stars": 11007,
+                        "stars": 11008,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -6400,7 +6400,7 @@
                 {
                   "node_type": "item",
                   "title": "Oh My Zsh",
-                  "description": null,
+                  "description": "ohmyzsh/ohmyzsh",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6410,10 +6410,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-29T15:38:41Z",
-                    "open_issues": 302,
+                    "open_issues": 303,
                     "owner": "ohmyzsh",
                     "repo": "ohmyzsh",
-                    "stars": 190040,
+                    "stars": 190046,
                     "topics": [
                       "cli",
                       "cli-app",
@@ -6437,7 +6437,7 @@
                 {
                   "node_type": "item",
                   "title": "Spaceship ZSH Theme",
-                  "description": null,
+                  "description": "spaceship-prompt/spaceship-prompt",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6474,7 +6474,7 @@
                     {
                       "node_type": "item",
                       "title": "Awesome Zsh Plugins",
-                      "description": null,
+                      "description": "unixorn/awesome-zsh-plugins",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6487,7 +6487,7 @@
                         "open_issues": 6,
                         "owner": "unixorn",
                         "repo": "awesome-zsh-plugins",
-                        "stars": 18043,
+                        "stars": 18044,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -6509,7 +6509,7 @@
                     {
                       "node_type": "item",
                       "title": "zsh-better-npm-completion",
-                      "description": null,
+                      "description": "lukechilds/zsh-better-npm-completion",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6557,7 +6557,7 @@
                     "open_issues": 347,
                     "owner": "spf13",
                     "repo": "spf13-vim",
-                    "stars": 15475,
+                    "stars": 15474,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:47:24.289Z"
@@ -6572,7 +6572,7 @@
                 {
                   "node_type": "item",
                   "title": "commitizen",
-                  "description": null,
+                  "description": "commitizen/cz-cli",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6645,7 +6645,7 @@
                     "open_issues": 201,
                     "owner": "BurntSushi",
                     "repo": "ripgrep",
-                    "stars": 68785,
+                    "stars": 68788,
                     "topics": [
                       "cli",
                       "command-line",
@@ -6673,11 +6673,11 @@
                     "id": 15019962,
                     "language": "Markdown",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-02T13:59:58Z",
-                    "open_issues": 257,
+                    "last_commit": "2026-10-03T05:03:14Z",
+                    "open_issues": 259,
                     "owner": "tldr-pages",
                     "repo": "tldr",
-                    "stars": 63808,
+                    "stars": 63811,
                     "topics": [
                       "android",
                       "bsd",
@@ -6715,11 +6715,11 @@
                     "id": 2909429,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-02T14:42:26Z",
-                    "open_issues": 124,
+                    "last_commit": "2026-10-03T02:19:18Z",
+                    "open_issues": 121,
                     "owner": "nicolargo",
                     "repo": "glances",
-                    "stars": 33723,
+                    "stars": 33725,
                     "topics": [
                       "monitoring",
                       "multi-platform",
@@ -6736,7 +6736,7 @@
                 {
                   "node_type": "item",
                   "title": "Analysis - cloc",
-                  "description": null,
+                  "description": "AlDanial/cloc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6917,7 +6917,7 @@
                     {
                       "node_type": "item",
                       "title": "GitHub Cheat Sheet",
-                      "description": null,
+                      "description": "tiimgreen/github-cheat-sheet",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6930,7 +6930,7 @@
                         "open_issues": 49,
                         "owner": "tiimgreen",
                         "repo": "github-cheat-sheet",
-                        "stars": 59409,
+                        "stars": 59418,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -6981,7 +6981,7 @@
                         {
                           "node_type": "item",
                           "title": "Awesome browser extensions for GitHub",
-                          "description": null,
+                          "description": "stefanbuck/awesome-browser-extensions-for-github",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -6994,7 +6994,7 @@
                             "open_issues": 29,
                             "owner": "stefanbuck",
                             "repo": "awesome-browser-extensions-for-github",
-                            "stars": 3305,
+                            "stars": 3306,
                             "topics": [
                               "awesome",
                               "awesome-list",
@@ -7068,12 +7068,12 @@
                     {
                       "node_type": "item",
                       "title": "Remark",
-                      "description": null,
+                      "description": "gnab/remark",
                       "children": [
                         {
                           "node_type": "item",
                           "title": "remarker",
-                          "description": null,
+                          "description": "kt3k/remarker",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -7162,7 +7162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:41:51.608Z",
+    "last_updated": "2026-10-03T05:10:27.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development",
@@ -7174,7 +7174,7 @@
       "open_issues": 24,
       "owner": "dexteryy",
       "repo": "spellbook-of-modern-webdev",
-      "stars": 17918,
+      "stars": 17919,
       "topics": [
         "awesome",
         "css3",
