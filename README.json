@@ -26,7 +26,7 @@
                     "open_issues": 2,
                     "owner": "joshbuchea",
                     "repo": "HEAD",
-                    "stars": 30267,
+                    "stars": 30269,
                     "topics": [
                       "favicon",
                       "frontend-development",
@@ -55,8 +55,8 @@
                     "id": 46622323,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-04T13:30:45Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-10-16T11:03:28Z",
+                    "open_issues": 1,
                     "owner": "camsong",
                     "repo": "You-Dont-Need-jQuery",
                     "stars": 20119,
@@ -440,10 +440,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-12T23:56:51Z",
-                    "open_issues": 25,
+                    "open_issues": 26,
                     "owner": "styled-components",
                     "repo": "styled-components",
-                    "stars": 41090,
+                    "stars": 41092,
                     "topics": [
                       "css",
                       "css-in-js",
@@ -471,7 +471,7 @@
                     "open_issues": 124,
                     "owner": "css-modules",
                     "repo": "css-modules",
-                    "stars": 18036,
+                    "stars": 18035,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:47:24.289Z"
@@ -557,7 +557,7 @@
                         "open_issues": 168,
                         "owner": "airbnb",
                         "repo": "javascript",
-                        "stars": 148068,
+                        "stars": 148062,
                         "topics": [
                           "arrow-functions",
                           "es2015",
@@ -725,7 +725,7 @@
                         "open_issues": 2,
                         "owner": "getify",
                         "repo": "You-Dont-Know-JS",
-                        "stars": 184822,
+                        "stars": 184825,
                         "topics": [
                           "async",
                           "book",
@@ -878,10 +878,10 @@
                     "language": "JavaScript",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-01T23:04:09Z",
-                    "open_issues": 121,
+                    "open_issues": 122,
                     "owner": "lodash",
                     "repo": "lodash",
-                    "stars": 61290,
+                    "stars": 61288,
                     "topics": [
                       "javascript",
                       "lodash",
@@ -966,7 +966,7 @@
                         "open_issues": 27,
                         "owner": "getify",
                         "repo": "Functional-Light-JS",
-                        "stars": 16727,
+                        "stars": 16726,
                         "topics": [
                           "book",
                           "education",
@@ -1049,11 +1049,11 @@
                     "id": 18845024,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-15T18:42:00Z",
+                    "last_commit": "2026-10-16T18:30:45Z",
                     "open_issues": 916,
                     "owner": "google",
                     "repo": "closure-compiler",
-                    "stars": 7692,
+                    "stars": 7693,
                     "topics": [
                       "closure-compiler",
                       "javascript",
@@ -1122,7 +1122,7 @@
                     "open_issues": 168,
                     "owner": "airbnb",
                     "repo": "javascript",
-                    "stars": 148068,
+                    "stars": 148062,
                     "topics": [
                       "arrow-functions",
                       "es2015",
@@ -1222,7 +1222,7 @@
                     "open_issues": 185,
                     "owner": "WebAssembly",
                     "repo": "design",
-                    "stars": 11625,
+                    "stars": 11627,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:47:24.289Z"
@@ -1243,7 +1243,7 @@
                     "open_issues": 185,
                     "owner": "WebAssembly",
                     "repo": "design",
-                    "stars": 11625,
+                    "stars": 11627,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:47:24.289Z"
@@ -1271,7 +1271,7 @@
                     "open_issues": 185,
                     "owner": "WebAssembly",
                     "repo": "design",
-                    "stars": 11625,
+                    "stars": 11627,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:47:24.289Z"
@@ -1485,10 +1485,10 @@
                         "language": "JavaScript",
                         "license": null,
                         "last_commit": "2026-08-24T13:05:32Z",
-                        "open_issues": 43,
+                        "open_issues": 44,
                         "owner": "nodejs",
                         "repo": "Release",
-                        "stars": 4360,
+                        "stars": 4363,
                         "topics": [
                           "node",
                           "nodejs"
@@ -1580,7 +1580,7 @@
                             "open_issues": 8,
                             "owner": "tc39",
                             "repo": "proposals",
-                            "stars": 19196,
+                            "stars": 19198,
                             "topics": [
                               "committee",
                               "ecmascript",
@@ -1602,11 +1602,11 @@
                         "id": 18609427,
                         "language": "HTML",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-15T18:40:10Z",
+                        "last_commit": "2026-10-15T21:24:37Z",
                         "open_issues": 480,
                         "owner": "tc39",
                         "repo": "ecma262",
-                        "stars": 15688,
+                        "stars": 15689,
                         "topics": [
                           "ecmascript",
                           "javascript"
@@ -1838,7 +1838,7 @@
                         "open_issues": 50,
                         "owner": "fangwei716",
                         "repo": "30-days-of-react-native",
-                        "stars": 6861,
+                        "stars": 6860,
                         "topics": [
                           "ios",
                           "react-native"
@@ -1971,7 +1971,7 @@
                     "open_issues": 26,
                     "owner": "JakeChampion",
                     "repo": "fetch",
-                    "stars": 25837,
+                    "stars": 25836,
                     "topics": [
                       "fetch",
                       "javascript",
@@ -2113,7 +2113,7 @@
                             "id": 15639771,
                             "language": "TypeScript",
                             "license": "ISC",
-                            "last_commit": "2026-10-15T18:12:45Z",
+                            "last_commit": "2026-10-16T16:53:22Z",
                             "open_issues": 30,
                             "owner": "conventional-changelog",
                             "repo": "conventional-changelog",
@@ -2272,7 +2272,7 @@
                         "open_issues": 17,
                         "owner": "faisalman",
                         "repo": "ua-parser-js",
-                        "stars": 10200,
+                        "stars": 10201,
                         "topics": [
                           "analytics",
                           "bot-detection",
@@ -2306,10 +2306,10 @@
                         "language": "JavaScript",
                         "license": "MIT",
                         "last_commit": "2026-09-11T10:17:07Z",
-                        "open_issues": 538,
+                        "open_issues": 540,
                         "owner": "validatorjs",
                         "repo": "validator.js",
-                        "stars": 23736,
+                        "stars": 23737,
                         "topics": [
                           "hacktoberfest",
                           "input",
@@ -2479,10 +2479,10 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-10-14T15:10:28Z",
-                    "open_issues": 114,
+                    "open_issues": 115,
                     "owner": "spencermountain",
                     "repo": "compromise",
-                    "stars": 12162,
+                    "stars": 12163,
                     "topics": [
                       "named-entity-recognition",
                       "nlp",
@@ -2534,10 +2534,10 @@
                             "language": "JavaScript",
                             "license": "MIT",
                             "last_commit": "2026-10-15T08:14:36Z",
-                            "open_issues": 1434,
+                            "open_issues": 1449,
                             "owner": "react",
                             "repo": "react",
-                            "stars": 251059,
+                            "stars": 251155,
                             "topics": [
                               "declarative",
                               "frontend",
@@ -2650,7 +2650,7 @@
                             "open_issues": 122,
                             "owner": "acdlite",
                             "repo": "recompose",
-                            "stars": 14754,
+                            "stars": 14755,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T23:47:24.289Z"
@@ -2932,8 +2932,8 @@
                     "id": 19117456,
                     "language": "TypeScript",
                     "license": null,
-                    "last_commit": "2026-10-15T16:50:07Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-10-16T15:36:48Z",
+                    "open_issues": 2,
                     "owner": "formatjs",
                     "repo": "formatjs",
                     "stars": 14741,
@@ -2972,11 +2972,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-15T18:38:43Z",
-                    "open_issues": 3644,
+                    "last_commit": "2026-10-16T18:30:42Z",
+                    "open_issues": 3677,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143023,
+                    "stars": 143038,
                     "topics": [
                       "blog",
                       "browser",
@@ -3037,7 +3037,7 @@
                     "open_issues": 49,
                     "owner": "verekia",
                     "repo": "js-stack-from-scratch",
-                    "stars": 20130,
+                    "stars": 20128,
                     "topics": [
                       "bootstrap",
                       "eslint",
@@ -3162,7 +3162,7 @@
                     "open_issues": 64,
                     "owner": "Tencent",
                     "repo": "weui",
-                    "stars": 27440,
+                    "stars": 27442,
                     "topics": [
                       "mobile-web",
                       "style",
@@ -3188,7 +3188,7 @@
                     "open_issues": 0,
                     "owner": "material-components",
                     "repo": "material-components-web",
-                    "stars": 17038,
+                    "stars": 17036,
                     "topics": [
                       "css",
                       "javascript",
@@ -3257,8 +3257,8 @@
                     "id": 61412022,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-15T18:40:05Z",
-                    "open_issues": 24,
+                    "last_commit": "2026-10-16T07:38:25Z",
+                    "open_issues": 7,
                     "owner": "ianstormtaylor",
                     "repo": "slate",
                     "stars": 31747,
@@ -3466,7 +3466,7 @@
                     "open_issues": 77,
                     "owner": "AlloyTeam",
                     "repo": "AlloyFinger",
-                    "stars": 3437,
+                    "stars": 3438,
                     "topics": [
                       "alloyfinger",
                       "finger",
@@ -3516,7 +3516,7 @@
                             "open_issues": 11,
                             "owner": "tobiasahlin",
                             "repo": "SpinKit",
-                            "stars": 19319,
+                            "stars": 19320,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T23:47:24.289Z"
@@ -3600,7 +3600,7 @@
                         "open_issues": 468,
                         "owner": "fabricjs",
                         "repo": "fabric.js",
-                        "stars": 31503,
+                        "stars": 31502,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:47:24.289Z"
@@ -3728,7 +3728,7 @@
                         "open_issues": 5,
                         "owner": "wbkd",
                         "repo": "awesome-d3",
-                        "stars": 5323,
+                        "stars": 5324,
                         "topics": [
                           "charts",
                           "d3js",
@@ -3777,7 +3777,7 @@
                     "open_issues": 181,
                     "owner": "microsoft",
                     "repo": "api-guidelines",
-                    "stars": 23333,
+                    "stars": 23335,
                     "topics": [
                       "api",
                       "guidelines",
@@ -3874,8 +3874,8 @@
                         "id": 34302698,
                         "language": "JavaScript",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-15T16:45:25Z",
-                        "open_issues": 1208,
+                        "last_commit": "2026-10-16T16:39:24Z",
+                        "open_issues": 1211,
                         "owner": "serverless",
                         "repo": "serverless",
                         "stars": 46924,
@@ -4018,7 +4018,7 @@
                     "open_issues": 55,
                     "owner": "botpress",
                     "repo": "botpress",
-                    "stars": 14953,
+                    "stars": 14957,
                     "topics": [
                       "agent",
                       "ai",
@@ -4163,11 +4163,11 @@
                         "id": 33293613,
                         "language": "TypeScript",
                         "license": "MIT",
-                        "last_commit": "2026-10-15T08:46:07Z",
-                        "open_issues": 181,
+                        "last_commit": "2026-10-16T07:39:22Z",
+                        "open_issues": 180,
                         "owner": "redis",
                         "repo": "ioredis",
-                        "stars": 15341,
+                        "stars": 15344,
                         "topics": [
                           "nodejs",
                           "redis",
@@ -4205,7 +4205,7 @@
                     "open_issues": 33,
                     "owner": "yujiosaka",
                     "repo": "headless-chrome-crawler",
-                    "stars": 5634,
+                    "stars": 5633,
                     "topics": [
                       "chrome",
                       "chromium",
@@ -4309,8 +4309,8 @@
                     "id": 26820798,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-15T18:46:57Z",
-                    "open_issues": 76,
+                    "last_commit": "2026-10-16T06:03:47Z",
+                    "open_issues": 78,
                     "owner": "avajs",
                     "repo": "ava",
                     "stars": 20823,
@@ -4396,11 +4396,11 @@
                             "id": 7613257,
                             "language": "Java",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-10-15T00:53:08Z",
-                            "open_issues": 193,
+                            "last_commit": "2026-10-16T16:16:03Z",
+                            "open_issues": 196,
                             "owner": "SeleniumHQ",
                             "repo": "selenium",
-                            "stars": 34552,
+                            "stars": 34553,
                             "topics": [
                               "dotnet",
                               "java",
@@ -4431,11 +4431,11 @@
                                 "id": 90796663,
                                 "language": "TypeScript",
                                 "license": "Apache-2.0",
-                                "last_commit": "2026-10-15T17:40:36Z",
-                                "open_issues": 260,
+                                "last_commit": "2026-10-16T11:49:25Z",
+                                "open_issues": 258,
                                 "owner": "puppeteer",
                                 "repo": "puppeteer",
-                                "stars": 95699,
+                                "stars": 95708,
                                 "topics": [
                                   "automation",
                                   "chrome",
@@ -4562,7 +4562,7 @@
                         "open_issues": 23,
                         "owner": "mrdoob",
                         "repo": "stats.js",
-                        "stars": 9153,
+                        "stars": 9152,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:47:24.289Z"
@@ -4619,7 +4619,7 @@
                         "open_issues": 203,
                         "owner": "wg",
                         "repo": "wrk",
-                        "stars": 40415,
+                        "stars": 40418,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:47:24.289Z"
@@ -4696,7 +4696,7 @@
                     "open_issues": 106,
                     "owner": "APIs-guru",
                     "repo": "graphql-voyager",
-                    "stars": 8170,
+                    "stars": 8169,
                     "topics": [
                       "api-documentation",
                       "graphql",
@@ -4798,10 +4798,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-12T20:28:04Z",
-                    "open_issues": 28,
+                    "open_issues": 29,
                     "owner": "postcss",
                     "repo": "postcss",
-                    "stars": 28971,
+                    "stars": 28969,
                     "topics": [
                       "ast",
                       "css",
@@ -4941,11 +4941,11 @@
                                 "id": 24560307,
                                 "language": "TypeScript",
                                 "license": "MIT",
-                                "last_commit": "2026-10-14T22:28:20Z",
-                                "open_issues": 783,
+                                "last_commit": "2026-10-16T08:59:23Z",
+                                "open_issues": 784,
                                 "owner": "babel",
                                 "repo": "babel",
-                                "stars": 44049,
+                                "stars": 44055,
                                 "topics": [
                                   "ast",
                                   "babel",
@@ -4974,7 +4974,7 @@
                                 "open_issues": 63,
                                 "owner": "babel",
                                 "repo": "proposals",
-                                "stars": 435,
+                                "stars": 434,
                                 "topics": [
                                   "babel",
                                   "tc39"
@@ -5132,7 +5132,7 @@
                         "open_issues": 51,
                         "owner": "petehunt",
                         "repo": "webpack-howto",
-                        "stars": 9992,
+                        "stars": 9991,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:47:24.289Z"
@@ -5226,7 +5226,7 @@
                     "open_issues": 40,
                     "owner": "htmlhint",
                     "repo": "HTMLHint",
-                    "stars": 3311,
+                    "stars": 3312,
                     "topics": [
                       "analysis",
                       "code-analysis",
@@ -5535,7 +5535,7 @@
                             "open_issues": 107,
                             "owner": "typicode",
                             "repo": "husky",
-                            "stars": 35356,
+                            "stars": 35357,
                             "topics": [
                               "commit",
                               "git",
@@ -5567,7 +5567,7 @@
                         "language": "JavaScript",
                         "license": "MIT",
                         "last_commit": "2026-02-09T06:30:13Z",
-                        "open_issues": 35,
+                        "open_issues": 31,
                         "owner": "gulpjs",
                         "repo": "gulp",
                         "stars": 32921,
@@ -5612,7 +5612,7 @@
                         "open_issues": 0,
                         "owner": "webpack-contrib",
                         "repo": "webpack-serve",
-                        "stars": 1089,
+                        "stars": 1088,
                         "topics": [
                           "development",
                           "devserver",
@@ -5770,8 +5770,8 @@
                             "id": 75882379,
                             "language": "TypeScript",
                             "license": "MIT",
-                            "last_commit": "2026-10-13T17:16:32Z",
-                            "open_issues": 53,
+                            "last_commit": "2026-10-16T18:29:14Z",
+                            "open_issues": 54,
                             "owner": "apollographql",
                             "repo": "apollo-client-devtools",
                             "stars": 1528,
@@ -5853,7 +5853,7 @@
                         "open_issues": 349,
                         "owner": "httpie",
                         "repo": "cli",
-                        "stars": 38643,
+                        "stars": 38646,
                         "topics": [
                           "api",
                           "api-client",
@@ -5981,11 +5981,11 @@
                                     "id": 6780767,
                                     "language": "Python",
                                     "license": "NOASSERTION",
-                                    "last_commit": "2026-10-15T18:28:24Z",
-                                    "open_issues": 767,
+                                    "last_commit": "2026-10-16T14:28:04Z",
+                                    "open_issues": 770,
                                     "owner": "aws",
                                     "repo": "aws-cli",
-                                    "stars": 17306,
+                                    "stars": 17309,
                                     "topics": [
                                       "aws",
                                       "aws-cli",
@@ -6023,8 +6023,8 @@
                                 "id": 35998691,
                                 "language": "TypeScript",
                                 "license": "MIT",
-                                "last_commit": "2026-10-15T17:33:17Z",
-                                "open_issues": 57,
+                                "last_commit": "2026-10-16T18:15:21Z",
+                                "open_issues": 54,
                                 "owner": "electron-userland",
                                 "repo": "electron-builder",
                                 "stars": 14674,
@@ -6095,7 +6095,7 @@
                                     "open_issues": 7,
                                     "owner": "wsargent",
                                     "repo": "docker-cheat-sheet",
-                                    "stars": 22557,
+                                    "stars": 22556,
                                     "topics": [
                                       "cheet-sheet",
                                       "docker"
@@ -6115,11 +6115,11 @@
                                     "id": 47304932,
                                     "language": "CSS",
                                     "license": "MIT",
-                                    "last_commit": "2026-10-08T15:29:03Z",
-                                    "open_issues": 21,
+                                    "last_commit": "2026-10-16T09:38:43Z",
+                                    "open_issues": 22,
                                     "owner": "prakhar1989",
                                     "repo": "docker-curriculum",
-                                    "stars": 6114,
+                                    "stars": 6116,
                                     "topics": [
                                       "aws",
                                       "cloud-computing",
@@ -6260,7 +6260,7 @@
                     "open_issues": 256,
                     "owner": "jlevy",
                     "repo": "the-art-of-command-line",
-                    "stars": 162494,
+                    "stars": 162518,
                     "topics": [
                       "bash",
                       "documentation",
@@ -6296,11 +6296,11 @@
                         "id": 1554093,
                         "language": "Shell",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-14T05:25:45Z",
+                        "last_commit": "2026-10-16T16:01:19Z",
                         "open_issues": 1,
                         "owner": "mbadolato",
                         "repo": "iTerm2-Color-Schemes",
-                        "stars": 27263,
+                        "stars": 27267,
                         "topics": [
                           "color-scheme",
                           "freebsd-vt",
@@ -6383,10 +6383,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-10-13T09:22:27Z",
-                    "open_issues": 297,
+                    "open_issues": 296,
                     "owner": "ohmyzsh",
                     "repo": "ohmyzsh",
-                    "stars": 190031,
+                    "stars": 190045,
                     "topics": [
                       "cli",
                       "cli-app",
@@ -6423,7 +6423,7 @@
                     "open_issues": 130,
                     "owner": "spaceship-prompt",
                     "repo": "spaceship-prompt",
-                    "stars": 20589,
+                    "stars": 20590,
                     "topics": [
                       "oh-my-zsh",
                       "prompt",
@@ -6460,7 +6460,7 @@
                         "open_issues": 6,
                         "owner": "unixorn",
                         "repo": "awesome-zsh-plugins",
-                        "stars": 18058,
+                        "stars": 18060,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -6530,7 +6530,7 @@
                     "open_issues": 347,
                     "owner": "spf13",
                     "repo": "spf13-vim",
-                    "stars": 15468,
+                    "stars": 15467,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:47:24.289Z"
@@ -6558,7 +6558,7 @@
                     "open_issues": 194,
                     "owner": "commitizen",
                     "repo": "cz-cli",
-                    "stars": 17498,
+                    "stars": 17497,
                     "topics": [
                       "command-line",
                       "commit-hooks",
@@ -6590,7 +6590,7 @@
                     "open_issues": 137,
                     "owner": "jlord",
                     "repo": "git-it-electron",
-                    "stars": 4887,
+                    "stars": 4886,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:47:24.289Z"
@@ -6618,7 +6618,7 @@
                     "open_issues": 215,
                     "owner": "BurntSushi",
                     "repo": "ripgrep",
-                    "stars": 69125,
+                    "stars": 69151,
                     "topics": [
                       "cli",
                       "command-line",
@@ -6646,11 +6646,11 @@
                     "id": 15019962,
                     "language": "Markdown",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-15T16:20:42Z",
-                    "open_issues": 283,
+                    "last_commit": "2026-10-16T14:48:54Z",
+                    "open_issues": 286,
                     "owner": "tldr-pages",
                     "repo": "tldr",
-                    "stars": 63952,
+                    "stars": 63964,
                     "topics": [
                       "android",
                       "bsd",
@@ -6688,11 +6688,11 @@
                     "id": 2909429,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-15T13:19:36Z",
-                    "open_issues": 110,
+                    "last_commit": "2026-10-16T12:21:06Z",
+                    "open_issues": 112,
                     "owner": "nicolargo",
                     "repo": "glances",
-                    "stars": 33788,
+                    "stars": 33793,
                     "topics": [
                       "monitoring",
                       "multi-platform",
@@ -6722,7 +6722,7 @@
                     "open_issues": 27,
                     "owner": "AlDanial",
                     "repo": "cloc",
-                    "stars": 23599,
+                    "stars": 23604,
                     "topics": [
                       "cloc",
                       "count-lines",
@@ -6826,8 +6826,8 @@
                     "id": 12635853,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-10-14T08:24:40Z",
-                    "open_issues": 163,
+                    "last_commit": "2026-10-16T04:58:55Z",
+                    "open_issues": 164,
                     "owner": "tulios",
                     "repo": "json-viewer",
                     "stars": 3457,
@@ -6903,7 +6903,7 @@
                         "open_issues": 50,
                         "owner": "tiimgreen",
                         "repo": "github-cheat-sheet",
-                        "stars": 59676,
+                        "stars": 59706,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -7118,7 +7118,7 @@
                     "open_issues": 858,
                     "owner": "airbnb",
                     "repo": "lottie-web",
-                    "stars": 32237,
+                    "stars": 32240,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:47:24.289Z"
@@ -7135,7 +7135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T18:47:26.085Z",
+    "last_updated": "2026-10-16T18:32:33.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development",
