@@ -296,11 +296,11 @@ A Subset for **Architecture and Infrastructure**
 ### HTML5 / Web APIs
 
 * HTML / DOM
-  * [HEAD](https://github.com/joshbuchea/HEAD/) ⭐ 30,271 | 🐛 2 | 📅 2026-05-28
+  * [HEAD](https://github.com/joshbuchea/HEAD/) ⭐ 30,272 | 🐛 2 | 📅 2026-05-28
   * [You Might Not Need jQuery](http://youmightnotneedjquery.com/), \
-    [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) ⭐ 20,112 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-29, \
+    [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) ⭐ 20,111 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-29, \
     [(Now More Than Ever) You Might Not Need jQuery](https://css-tricks.com/now-ever-might-not-need-jquery/)
-  * [favicon](https://github.com/audreyr/favicon-cheat-sheet) ⭐ 9,904 | 🐛 4 | 📅 2026-01-22
+  * [favicon](https://github.com/audreyr/favicon-cheat-sheet) ⭐ 9,903 | 🐛 4 | 📅 2026-01-22
   * [Form pseudo-element](https://gist.github.com/webtobesocial/aefd6e25064c08e0cc9a)
   * [Native form elements](http://nativeformelements.com/)
   * [Detect DOM changes with Mutation Observers](https://developers.google.com/web/updates/2012/02/Detect-DOM-changes-with-Mutation-Observers)
@@ -497,8 +497,8 @@ A Subset for **Architecture and Infrastructure**
     * [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/), [RSCSS](http://rscss.io/), [SOLID CSS](http://blog.millermedeiros.com/solid-css/)
     * [CSS Guidelines](https://cssguidelin.es/), [MaintainableCSS](https://maintainablecss.com/)
   * Code Style
-    * [Airbnb CSS-in-JavaScript Style Guide](https://github.com/airbnb/javascript/tree/master/css-in-javascript) ⭐ 148,032 | 🐛 169 | 🌐 JavaScript | 📅 2026-04-16
-    * [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) ⭐ 6,957 | 🐛 23 | 📅 2024-06-04
+    * [Airbnb CSS-in-JavaScript Style Guide](https://github.com/airbnb/javascript/tree/master/css-in-javascript) ⭐ 148,031 | 🐛 169 | 🌐 JavaScript | 📅 2026-04-16
+    * [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) ⭐ 6,958 | 🐛 23 | 📅 2024-06-04
     * [Idiomatic CSS](https://github.com/necolas/idiomatic-css) ⭐ 6,641 | 🐛 7 | 📅 2022-12-21
     * CSS + HTML
       * [Isobar Front-end Code Standards](http://isobar-idev.github.io/code-standards/)
@@ -602,7 +602,7 @@ A Subset for **Architecture and Infrastructure**
       * [About object-oriented design and the “class” & “extends” keywords in ES6](http://blog.wolksoftware.com/about-classes-inheritance-and-object-oriented-design-in-typescript-and-es6)
       * [JavaScript Regular Expression Enlightenment](http://codylindley.com/techpro/2013_05_14__javascript-regular-expression-/)
   * Books
-    * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,834 | 🐛 2 | 📅 2026-02-15
+    * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,839 | 🐛 2 | 📅 2026-10-31
     * [Eloquent JavaScript](http://eloquentjavascript.net/)
     * [Speaking JavaScript](http://speakingjs.com/es5/)
 * Reference
@@ -634,9 +634,9 @@ A Subset for **Architecture and Infrastructure**
       * [A Taste of JavaScript’s New Parallel Primitives](https://hacks.mozilla.org/2016/05/a-taste-of-javascripts-new-parallel-primitives/)
       * [A cartoon intro to ArrayBuffers and SharedArrayBuffers](https://hacks.mozilla.org/2017/06/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers/)
 * Functional Programming
-  * [Lodash's FP Guide](https://github.com/lodash/lodash/wiki/FP-Guide) ⭐ 61,275 | 🐛 123 | 🌐 JavaScript | 📅 2026-10-01
+  * [Lodash's FP Guide](https://github.com/lodash/lodash/wiki/FP-Guide) ⭐ 61,274 | 🐛 123 | 🌐 JavaScript | 📅 2026-10-01
   * [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) ⭐ 18,743 | 🐛 28 | 🌐 JavaScript | 📅 2026-10-04
-  * [Fantasy Land](https://github.com/fantasyland/fantasy-land) ⭐ 10,244 | 🐛 37 | 🌐 JavaScript | 📅 2024-11-10
+  * [Fantasy Land](https://github.com/fantasyland/fantasy-land) ⭐ 10,245 | 🐛 37 | 🌐 JavaScript | 📅 2024-11-10
     * [From Callback to Future -> Functor -> Monad](https://hackernoon.com/from-callback-to-future-functor-monad-6c86d9c16cb5)
     * [ADT (Algebraic Data Types)](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
     * [JavaScript and Type Thinking](https://medium.com/@yelouafi/javascript-and-type-thinking-735edddc388d)
@@ -660,7 +660,7 @@ A Subset for **Architecture and Infrastructure**
     * [Functional Programming in JavaScript](http://reactivex.io/learnrx/)
     * [RxMarbles](http://rxmarbles.com/)
 * Static Typing
-  * [JSDoc Tags](https://github.com/google/closure-compiler/wiki/Annotating-JavaScript-for-the-Closure-Compiler) ⭐ 7,700 | 🐛 915 | 🌐 JavaScript | 📅 2026-10-30
+  * [JSDoc Tags](https://github.com/google/closure-compiler/wiki/Annotating-JavaScript-for-the-Closure-Compiler) ⭐ 7,700 | 🐛 915 | 🌐 JavaScript | 📅 2026-10-31
     * [jsdoc-to-assert](https://github.com/azu/jsdoc-to-assert) ⭐ 38 | 🐛 3 | 🌐 JavaScript | 📅 2017-01-18
   * Intro
     * [Why use static types in JavaScript?](https://medium.freecodecamp.com/why-use-static-types-in-javascript-part-1-8382da1e0adb)
@@ -675,9 +675,9 @@ A Subset for **Architecture and Infrastructure**
 * Concurrent JS / Parallel JavaScript
   * [Napa.js](https://github.com/Microsoft/napajs/) ⚠️ Archived
 * Code Style
-  * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) ⭐ 148,032 | 🐛 169 | 🌐 JavaScript | 📅 2026-04-16
-  * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,692 | 🐛 124 | 🌐 JavaScript | 📅 2024-07-29
-  * [Node.js Style Guide](https://github.com/felixge/node-style-guide) ⭐ 4,984 | 🐛 17 | 🌐 JavaScript | 📅 2021-01-24
+  * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) ⭐ 148,031 | 🐛 169 | 🌐 JavaScript | 📅 2026-04-16
+  * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) ⭐ 94,694 | 🐛 124 | 🌐 JavaScript | 📅 2024-07-29
+  * [Node.js Style Guide](https://github.com/felixge/node-style-guide) ⭐ 4,983 | 🐛 17 | 🌐 JavaScript | 📅 2021-01-24
   * [JavaScript Clean Coding Best Practices](https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/)
 
 \>> Return to [Table of Contents](#table-of-contents)
@@ -741,7 +741,7 @@ A Subset for **Architecture and Infrastructure**
     * [Webkit Blog](https://webkit.org/blog/)
     * [Microsoft Edge Dev Blog](https://developer.microsoft.com/en-us/microsoft-edge/community/)
   * [Writing forward-compatible websites](https://developer.mozilla.org/en-US/docs/Web/Guide/Writing_forward-compatible_websites)
-    * Feature Detection - [Modernizr/feature-detects](https://github.com/Modernizr/Modernizr/tree/master/feature-detects) ⭐ 25,676 | 🐛 203 | 🌐 JavaScript | 📅 2026-10-21, [feature.js](https://github.com/viljamis/feature.js/blob/master/feature.js) ⭐ 3,139 | 🐛 26 | 🌐 HTML | 📅 2023-03-03
+    * Feature Detection - [Modernizr/feature-detects](https://github.com/Modernizr/Modernizr/tree/master/feature-detects) ⭐ 25,678 | 🐛 203 | 🌐 JavaScript | 📅 2026-10-21, [feature.js](https://github.com/viljamis/feature.js/blob/master/feature.js) ⭐ 3,140 | 🐛 26 | 🌐 HTML | 📅 2023-03-03
     * [Graded Browser Support](https://github.com/yui/yui3/wiki/Graded-Browser-Support) ⭐ 4,160 | 🐛 362 | 🌐 JavaScript | 📅 2025-02-20 - [Grade components, not browsers](https://www.filamentgroup.com/lab/grade-the-components.html)
     * Polyfill - [What is a Polyfill?](https://remysharp.com/2010/10/08/what-is-a-polyfill)
     * Browser/Device/Runtime Detection - see *[Platforms and Languages > Universal Utility Libraries](#universal-utility-libraries) > Parsing / Manipulating*
@@ -750,7 +750,7 @@ A Subset for **Architecture and Infrastructure**
     * [CSS Support Guide for Email Clients](https://www.campaignmonitor.com/css/) / [Email Client CSS Support](https://templates.mailchimp.com/resources/email-client-css-support/)
 * Node.js
   * Platform Releases
-    * [Node.js Release Working Group](https://github.com/nodejs/Release) ⭐ 4,376 | 🐛 38 | 🌐 JavaScript | 📅 2026-10-30
+    * [Node.js Release Working Group](https://github.com/nodejs/Release) ⭐ 4,377 | 🐛 37 | 🌐 JavaScript | 📅 2026-10-31
 * ECMAScript Support
   * [ECMAScript compatibility table](http://kangax.github.io/compat-table/es6/)
   * [Node.js ES2015+ Support](http://node.green/)
@@ -762,8 +762,8 @@ A Subset for **Architecture and Infrastructure**
     * [Node 6.0 LTS](https://nodejs.org/en/blog/release/v6.0.0/) - [V8 5.0](https://v8project.blogspot.hk/2016/03/v8-release-50.html), 93% of ES6 language features
   * Performance - [Six Speed](https://kpdecker.github.io/six-speed/)
 * Proposal Status
-  * [Node.js TSC](https://github.com/nodejs/TSC) ⭐ 693 | 🐛 46 | 🌐 JavaScript | 📅 2026-10-25 (Node.js Foundation Technical Steering Committee)
-    * [Meeting Notes](https://github.com/nodejs/TSC/tree/master/meetings) ⭐ 693 | 🐛 46 | 🌐 JavaScript | 📅 2026-10-25
+  * [Node.js TSC](https://github.com/nodejs/TSC) ⭐ 693 | 🐛 47 | 🌐 JavaScript | 📅 2026-10-25 (Node.js Foundation Technical Steering Committee)
+    * [Meeting Notes](https://github.com/nodejs/TSC/tree/master/meetings) ⭐ 693 | 🐛 47 | 🌐 JavaScript | 📅 2026-10-25
     * Inside
       * [How Node.js created a model open source community](https://readwrite.com/2016/04/15/how-node-js-model-open-source-community-pl1/)
       * [Healthy Open Source](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
@@ -782,19 +782,19 @@ A Subset for **Architecture and Infrastructure**
     * Inside
       * [W3C vs. WHATWG HTML5 Specs – The Differences Documented](http://developer.telerik.com/featured/w3c-vs-whatwg-html5-specs-differences-documented/)
   * [ECMA TC39](http://ecma-international.org/memento/TC39.htm) (Ecma International Technical Committee 39)
-    * [Status, process, and documents for ECMA262](https://github.com/tc39/ecma262) ⭐ 15,704 | 🐛 508 | 🌐 HTML | 📅 2026-10-30
+    * [Status, process, and documents for ECMA262](https://github.com/tc39/ecma262) ⭐ 15,705 | 🐛 506 | 🌐 HTML | 📅 2026-10-31
       * [ECMAScript Proposals](https://github.com/tc39/proposals) ⭐ 19,203 | 🐛 8 | 📅 2026-10-14 / [TC39 Proposals](https://prop-tc39.now.sh/)
     * Inside
       * [The TC39 Process](http://tc39.github.io/process-document/) / [The TC39 process for ECMAScript features](http://2ality.com/2015/11/tc39-process.html)
 * JS Engine
-  * [Chakra](https://github.com/Microsoft/ChakraCore) ⭐ 9,258 | 🐛 616 | 🌐 JavaScript | 📅 2026-02-19
-    * [Architecture Overview](https://github.com/Microsoft/ChakraCore/wiki/Architecture-Overview) ⭐ 9,258 | 🐛 616 | 🌐 JavaScript | 📅 2026-02-19
+  * [Chakra](https://github.com/Microsoft/ChakraCore) ⭐ 9,259 | 🐛 616 | 🌐 JavaScript | 📅 2026-02-19
+    * [Architecture Overview](https://github.com/Microsoft/ChakraCore/wiki/Architecture-Overview) ⭐ 9,259 | 🐛 616 | 🌐 JavaScript | 📅 2026-02-19
     * [Microsoft Edge’s JavaScript engine to go open-source](https://blogs.windows.com/msedgedev/2015/12/05/open-source-chakra-core/)
     * [Node-ChakraCore and VM Neutrality in Node.js](https://blogs.windows.com/msedgedev/2016/11/29/node-chakracore-vm-neutrality/)
     * Internal
       * JavaScript performance updates - [2015](https://blogs.windows.com/msedgedev/2015/05/20/delivering-fast-javascript-performance-in-microsoft-edge), [2016](https://blogs.windows.com/msedgedev/2016/06/22/javascript-performance-updates-anniversary-update/), [2017](https://blogs.windows.com/msedgedev/2017/04/20/improved-javascript-performance-webassembly-shared-memory/)
     * Next Generation
-      * [Roadmap](https://github.com/Microsoft/ChakraCore/wiki/Roadmap) ⭐ 9,258 | 🐛 616 | 🌐 JavaScript | 📅 2026-02-19
+      * [Roadmap](https://github.com/Microsoft/ChakraCore/wiki/Roadmap) ⭐ 9,259 | 🐛 616 | 🌐 JavaScript | 📅 2026-02-19
   * [A Guide to JavaScript Engines for Idiots](http://developer.telerik.com/featured/a-guide-to-javascript-engines-for-idiots/)
   * [V8](https://developers.google.com/v8/)
     * [How the V8 engine works?](http://thibaultlaurens.github.io/javascript/2013/04/29/how-the-v8-engine-works/)
@@ -867,13 +867,13 @@ A Subset for **Architecture and Infrastructure**
   * Server-Sent Events - [EventSource Polyfill](https://github.com/amvtek/EventSource) ⭐ 179 | 🐛 8 | 🌐 JavaScript | 📅 2023-10-25
   * WebSocket - [Socket.IO-client](https://www.npmjs.com/package/socket.io-client) / [Engine.IO-client](https://www.npmjs.com/package/engine.io-client) / [SockJS-client](https://www.npmjs.com/package/sockjs-client)
 * Performance
-  * Web Worker - [Greenlet](https://github.com/developit/greenlet) ⭐ 4,685 | 🐛 15 | 🌐 JavaScript | 📅 2021-03-01 / [Workerize](https://github.com/developit/workerize) ⭐ 4,373 | 🐛 18 | 🌐 JavaScript | 📅 2021-03-04
+  * Web Worker - [Greenlet](https://github.com/developit/greenlet) ⭐ 4,685 | 🐛 15 | 🌐 JavaScript | 📅 2021-03-01 / [Workerize](https://github.com/developit/workerize) ⭐ 4,372 | 🐛 18 | 🌐 JavaScript | 📅 2021-03-04
   * `document-write` - [PostScribe](https://www.npmjs.com/package/postscribe)
   * User Timing API - [marky](https://www.npmjs.com/package/marky)
 * Offline
   * Service Work - [Workbox](https://developers.google.com/web/tools/workbox/)
   * File / FileReader API
-    * [FileSaver.js](https://www.npmjs.com/package/file-saver) / [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) ⭐ 4,376 | 🐛 100 | 🌐 JavaScript | 📅 2026-07-30
+    * [FileSaver.js](https://www.npmjs.com/package/file-saver) / [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) ⭐ 4,377 | 🐛 100 | 🌐 JavaScript | 📅 2026-07-30
     * [blob-util](https://www.npmjs.com/package/blob-util)
   * IndexedDB
     * LocalStorage API - [localForage](https://www.npmjs.com/package/localforage)
@@ -928,7 +928,7 @@ A Subset for **Architecture and Infrastructure**
       * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
       * Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) ⭐ 6,392 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-29 / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md) ⚠️ Archived
     * Changelog
-      * [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog) ⭐ 8,526 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-28
+      * [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog) ⭐ 8,527 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-31
       * [Conventional Commits](https://conventionalcommits.org/)
       * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
     * License
@@ -992,11 +992,11 @@ A Subset for **Architecture and Infrastructure**
     * URL Parsing - [qs](https://www.npmjs.com/package/qs), [URI.js](https://github.com/medialize/URI.js) ⭐ 6,224 | 🐛 104 | 🌐 JavaScript | 📅 2023-08-27
     * IP Address Manipulation - [ip](https://www.npmjs.com/package/ip)
   * Environment
-    * UA Sniffing - [UAParser.js](https://github.com/faisalman/ua-parser-js) ⭐ 10,209 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-29 / [useragent](https://www.npmjs.com/package/useragent)
+    * UA Sniffing - [UAParser.js](https://github.com/faisalman/ua-parser-js) ⭐ 10,211 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-29 / [useragent](https://www.npmjs.com/package/useragent)
     * Information - [platform.js](https://www.npmjs.com/package/platform)
     * Runtime Detection - [is-electron-renderer](https://www.npmjs.com/package/is-electron-renderer) / [electron-is](https://www.npmjs.com/package/electron-is)
   * Validator
-    * String Validation - [validator.js](https://github.com/chriso/validator.js) ⭐ 23,744 | 🐛 552 | 🌐 JavaScript | 📅 2026-09-11
+    * String Validation - [validator.js](https://github.com/chriso/validator.js) ⭐ 23,746 | 🐛 552 | 🌐 JavaScript | 📅 2026-09-11
     * Schema Validation - [joi](https://www.npmjs.com/package/joi) / [Ajv](http://epoberezkin.github.io/ajv/)
   * i18n
     * [Intl.js](https://www.npmjs.com/package/intl) + [FormatJS](https://formatjs.io/guides/) / [i18next](https://www.i18next.com/)
@@ -1035,7 +1035,7 @@ A Subset for **Architecture and Infrastructure**
 * Network
   * HTTP / XHR
     * Low-level - [Isomorphic Fetch](https://github.com/matthew-andrews/isomorphic-fetch) ⭐ 6,902 | 🐛 56 | 🌐 JavaScript | 📅 2024-06-27
-    * GraphQL - [lokka](https://github.com/kadirahq/lokka) ⭐ 1,523 | 🐛 35 | 🌐 JavaScript | 📅 2017-07-31
+    * GraphQL - [lokka](https://github.com/kadirahq/lokka) ⭐ 1,524 | 🐛 35 | 🌐 JavaScript | 📅 2017-07-31
     * High-level
       * Based on Fetch API - [hifetch](https://github.com/dexteryy/Project-WebCube/blob/master/packages/hifetch) ⭐ 146 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-17
       * Based on XHR - [Axios](https://www.npmjs.com/package/axios)
@@ -1054,7 +1054,7 @@ A Subset for **Architecture and Infrastructure**
 * Computation
   * [Math.js](http://mathjs.org/), [Simple Statistics](https://simplestatistics.org/), [ndarray](https://www.npmjs.com/package/ndarray), [bignumber.js](http://mikemcl.github.io/bignumber.js/)
 * NLP
-  * [compromise](https://github.com/nlp-compromise/compromise) ⭐ 12,168 | 🐛 93 | 🌐 JavaScript | 📅 2026-10-30 / [talisman](http://yomguithereal.github.io/talisman/)
+  * [compromise](https://github.com/nlp-compromise/compromise) ⭐ 12,169 | 🐛 95 | 🌐 JavaScript | 📅 2026-10-30 / [talisman](http://yomguithereal.github.io/talisman/)
 * ML/DL
   * [TensorFlow.js](https://js.tensorflow.org/)
   * [MLJS](https://www.npmjs.com/package/ml), [Synaptic](https://www.npmjs.com/package/synaptic)
@@ -1068,7 +1068,7 @@ A Subset for **Architecture and Infrastructure**
 * View / ViewModel / ViewController
   * [React](https://facebook.github.io/react/)
     * Learning
-      * Next Gen - [What is React Fiber?](https://gist.github.com/duivvv/2ba00d413b8ff7bc1fa5a2e51c61ba43), [React 16](https://github.com/facebook/react/issues/10294) ⭐ 251,767 | 🐛 1,473 | 🌐 JavaScript | 📅 2026-10-30
+      * Next Gen - [What is React Fiber?](https://gist.github.com/duivvv/2ba00d413b8ff7bc1fa5a2e51c61ba43), [React 16](https://github.com/facebook/react/issues/10294) ⭐ 251,900 | 🐛 1,482 | 🌐 JavaScript | 📅 2026-10-31
       * Pete Hunt's [react-howto](https://github.com/petehunt/react-howto) ⭐ 11,518 | 🐛 38 | 📅 2024-06-30
       * [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic) ⭐ 4,436 | 🐛 3 | 📅 2019-01-02
       * [Under the hood: ReactJS](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/)
@@ -1165,7 +1165,7 @@ A Subset for **Architecture and Infrastructure**
   * [React Router](https://reacttraining.com/react-router/)
   * [React Helmet](https://www.npmjs.com/package/react-helmet)
 * i18n
-  * [React Intl](https://github.com/yahoo/react-intl) ⭐ 14,751 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-30 / [React i18next](https://react.i18next.com)
+  * [React Intl](https://github.com/yahoo/react-intl) ⭐ 14,753 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-31 / [React i18next](https://react.i18next.com)
   * [React Intl Redux](https://www.npmjs.com/package/react-intl-redux)
 * Monitoring / Error Capture
   * [react-ga](https://www.npmjs.com/package/react-ga)
@@ -1182,9 +1182,9 @@ A Subset for **Architecture and Infrastructure**
   * [JAMstack](https://jamstack.org/)
   * see *[Tooling > Workflow](#workflow) > Deployment > Publishing App*
 * Scaffold / Boilerplate / Generator
-  * [Next.js](https://github.com/zeit/next.js) ⭐ 143,212 | 🐛 3,779 | 🌐 JavaScript | 📅 2026-10-30
-  * [create-react-app](https://github.com/facebookincubator/create-react-app) ⭐ 103,233 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15 / [angular-cli](https://cli.angular.io/) / [vue-cli](https://www.npmjs.com/package/vue-cli)
-  * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch) ⭐ 20,119 | 🐛 49 | 🌐 JavaScript | 📅 2024-06-05
+  * [Next.js](https://github.com/zeit/next.js) ⭐ 143,313 | 🐛 3,777 | 🌐 JavaScript | 📅 2026-10-31
+  * [create-react-app](https://github.com/facebookincubator/create-react-app) ⭐ 103,235 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15 / [angular-cli](https://cli.angular.io/) / [vue-cli](https://www.npmjs.com/package/vue-cli)
+  * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch) ⭐ 20,118 | 🐛 49 | 🌐 JavaScript | 📅 2024-06-05
   * [webcube](https://github.com/dexteryy/Project-WebCube) ⭐ 146 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-17 (Author's own project)
   * [Starter Kits Recommended by the React Team](https://reactjs.org/community/starter-kits.html)
   * Static Site Generator - [Gatsby](https://www.gatsbyjs.org/) / [Metalsmith](http://www.metalsmith.io/) / [Hexo](https://hexo.io/) / [Assemble](http://assemble.io/)
@@ -1212,7 +1212,7 @@ A Subset for **Architecture and Infrastructure**
 ### UI Toolkits
 
 * CSS
-  * [WeUI](https://github.com/weui/weui) ⭐ 27,452 | 🐛 64 | 🌐 HTML | 📅 2026-03-12
+  * [WeUI](https://github.com/weui/weui) ⭐ 27,449 | 🐛 64 | 🌐 HTML | 📅 2026-03-12
   * [Material Components for the web](https://github.com/material-components/material-components-web) ⚠️ Archived
   * [Skeleton.css](http://getskeleton.com/)
   * [Tachyons](http://tachyons.io/)
@@ -1282,7 +1282,7 @@ A Subset for **Architecture and Infrastructure**
   * [React QR Code](https://www.npmjs.com/package/qrcode.react)
   * Email Table - [Oy Vey](https://www.npmjs.com/package/oy-vey)
 * Editor
-  * [Slate](https://github.com/ianstormtaylor/slate) ⭐ 31,746 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-28
+  * [Slate](https://github.com/ianstormtaylor/slate) ⭐ 31,747 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-28
   * [Draft.js](https://draftjs.org/)
     * [Awesome Draft.js](https://github.com/nikgraf/awesome-draft-js) ⭐ 2,523 | 🐛 0 | 📅 2022-05-04
   * [React Quill](https://www.npmjs.com/package/react-quill) / [Quill](https://quilljs.com/)
@@ -1307,7 +1307,7 @@ A Subset for **Architecture and Infrastructure**
 ### UX Libraries
 
 * Drag & Drop
-  * [React Sortable HOC ](https://www.npmjs.com/package/react-sortable-hoc) / [Sortable](https://github.com/RubaXa/Sortable) ⭐ 31,208 | 🐛 532 | 🌐 JavaScript | 📅 2026-03-24
+  * [React Sortable HOC ](https://www.npmjs.com/package/react-sortable-hoc) / [Sortable](https://github.com/RubaXa/Sortable) ⭐ 31,209 | 🐛 533 | 🌐 JavaScript | 📅 2026-03-24
   * [React DnD](https://react-dnd.github.io/react-dnd) / [React Draggable](https://www.npmjs.com/package/react-draggable)
   * [React Dropzone](https://www.npmjs.com/package/react-dropzone) / [DropzoneJS](http://www.dropzonejs.com/)
   * [GSAP - Draggable](https://greensock.com/draggable)
@@ -1377,7 +1377,7 @@ A Subset for **Architecture and Infrastructure**
       * [Velocity.js](http://velocityjs.org/) / [Velocity React](https://www.npmjs.com/package/velocity-react) / [Dynamics.js](http://dynamicsjs.com/)
       * [React Overdrive](https://www.npmjs.com/package/react-overdrive)
     * Anything
-      * Lightweight Tweening Engine - [shifty](https://www.npmjs.com/package/shifty) / [tween.js](https://github.com/tweenjs/tween.js/) ⭐ 10,149 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-29
+      * Lightweight Tweening Engine - [shifty](https://www.npmjs.com/package/shifty) / [tween.js](https://github.com/tweenjs/tween.js/) ⭐ 10,150 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-29
       * [Anime.js](http://anime-js.com/documentation/)  /  [React Anime](https://www.npmjs.com/package/react-anime)
       * Between Shapes - [flubber](https://www.npmjs.com/package/flubber)
       * [GSAP - TweenLite](https://greensock.com/tweenlite), [GSAP - TweenMax](https://greensock.com/tweenmax)
@@ -1396,7 +1396,7 @@ A Subset for **Architecture and Infrastructure**
     * [rc-tween-one](https://www.npmjs.com/package/rc-tween-one)
 * 2D
   * Canvas
-    * [Pixi.js](http://www.pixijs.com/) / [Fabric.js](https://github.com/kangax/fabric.js) ⭐ 31,529 | 🐛 457 | 🌐 TypeScript | 📅 2026-10-30
+    * [Pixi.js](http://www.pixijs.com/) / [Fabric.js](https://github.com/kangax/fabric.js) ⭐ 31,532 | 🐛 457 | 🌐 TypeScript | 📅 2026-10-30
     * [React Pixi](https://reactpixi.org/) / [ReactPixiFiber](https://github.com/michalochman/react-pixi-fiber) ⭐ 881 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-28 / [React Konva](https://www.npmjs.com/package/react-konva)
     * Isometric - [obelisk.js](https://www.npmjs.com/package/obelisk.js)
     * Creative - [p5.js](https://www.npmjs.com/package/p5)
@@ -1413,7 +1413,7 @@ A Subset for **Architecture and Infrastructure**
     * [aframe-react](https://www.npmjs.com/package/aframe-react) / [A-Frame](https://aframe.io/)
     * [React 360](https://facebook.github.io/react-360/)
   * Physics
-    * [cannon.js](https://github.com/schteppe/cannon.js) ⭐ 5,012 | 🐛 212 | 🌐 JavaScript | 📅 2023-08-04 / [ammo.js](https://github.com/kripken/ammo.js) ⭐ 4,585 | 🐛 177 | 🌐 C++ | 📅 2026-09-22 / [oimo.js](https://github.com/lo-th/Oimo.js/) ⭐ 3,180 | 🐛 49 | 🌐 JavaScript | 📅 2021-07-08
+    * [cannon.js](https://github.com/schteppe/cannon.js) ⭐ 5,012 | 🐛 212 | 🌐 JavaScript | 📅 2023-08-04 / [ammo.js](https://github.com/kripken/ammo.js) ⭐ 4,586 | 🐛 177 | 🌐 C++ | 📅 2026-09-22 / [oimo.js](https://github.com/lo-th/Oimo.js/) ⭐ 3,180 | 🐛 49 | 🌐 JavaScript | 📅 2021-07-08
 * Data Visualization
   * [React Sparklines](https://borisyankov.github.io/react-sparklines/) / [React Trend](https://www.npmjs.com/package/react-trend) / [vx](https://vx-demo.now.sh/)
   * [Recharts](http://recharts.org/) / [Victory](http://formidable.com/open-source/victory/)
@@ -1425,7 +1425,7 @@ A Subset for **Architecture and Infrastructure**
   * [Timesheet.js](https://sbstjn.com/timesheet.js/), [Canvas Gauges](https://canvas-gauges.com)
   * GIS - [Leaflet](http://leafletjs.com/), [Turf.js](http://turfjs.org/), [OpenLayers](https://openlayers.org/), [Cesium](https://www.npmjs.com/package/cesium)
   * [D3.js](https://d3js.org/)
-    * [Awesome D3](https://github.com/wbkd/awesome-d3) ⭐ 5,324 | 🐛 6 | 📅 2023-01-13
+    * [Awesome D3](https://github.com/wbkd/awesome-d3) ⭐ 5,325 | 🐛 6 | 📅 2023-01-13
     * Word Cloud - [d3-cloud](https://www.npmjs.com/package/d3-cloud)
     * Constraint - [d3-force](https://www.npmjs.com/package/d3-force) / [cola.js](https://www.npmjs.com/package/webcola)
 * Game
@@ -1551,7 +1551,7 @@ A Subset for **Architecture and Infrastructure**
   * [The Twelve-Factor App](https://12factor.net/)
 * Restful API
   * Heroku's [HTTP API Design Guide](https://geemus.gitbooks.io/http-api-design/content/en/), \
-    Microsoft's [API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design), [REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md) ⭐ 23,337 | 🐛 183 | 📅 2026-08-05, \
+    Microsoft's [API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design), [REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md) ⭐ 23,339 | 🐛 182 | 📅 2026-10-30, \
     [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api), \
     [Principles of good RESTful API Design](https://codeplanet.io/principles-good-restful-api-design/)
   * [REST API Error Codes 101](http://blog.restcase.com/rest-api-error-codes-101/)
@@ -1670,7 +1670,7 @@ A Subset for **Architecture and Infrastructure**
   * Microservices
     * [Micro](https://www.npmjs.com/package/micro) / [Seneca](http://senecajs.org/) / [StdLib](https://stdlib.com/)
   * Serverless
-    * [Serverless Framework](https://github.com/serverless/serverless) ⭐ 46,927 | 🐛 1,203 | 🌐 JavaScript | 📅 2026-10-28
+    * [Serverless Framework](https://github.com/serverless/serverless) ⭐ 46,927 | 🐛 1,202 | 🌐 JavaScript | 📅 2026-10-28
     * [IronFunctions](https://github.com/iron-io/functions) ⭐ 3,212 | 🐛 94 | 🌐 Go | 📅 2023-09-15
   * Bots
     * [Botkit](https://www.npmjs.com/package/botkit)
@@ -1693,7 +1693,7 @@ A Subset for **Architecture and Infrastructure**
     * [Understanding JSON Schema](https://spacetelescope.github.io/understanding-json-schema/)
   * See *[Tooling > Documentation](#documentation)*
 * Scaffold / Boilerplate / Generator
-  * [Botpress](https://github.com/botpress/botpress) ⭐ 14,974 | 🐛 56 | 🌐 TypeScript | 📅 2026-10-30
+  * [Botpress](https://github.com/botpress/botpress) ⭐ 14,973 | 🐛 57 | 🌐 TypeScript | 📅 2026-10-30
   * [Nodal](https://github.com/keithwhor/nodal) ⭐ 4,474 | 🐛 38 | 🌐 JavaScript | 📅 2023-01-16
   * [nodecube](https://github.com/dexteryy/Project-WebCube) ⭐ 146 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-17 (Author's own project)
   * [Fuge](http://fuge.io/)
@@ -1734,7 +1734,7 @@ A Subset for **Architecture and Infrastructure**
   * OAuth Providers - [hello.js](http://adodson.com/hello.js/) / [grant](https://www.npmjs.com/package/grant)
 * Storage
   * NOSQL
-    * Redis Client - [ioredis](https://github.com/luin/ioredis) ⭐ 15,349 | 🐛 172 | 🌐 TypeScript | 📅 2026-10-30
+    * Redis Client - [ioredis](https://github.com/luin/ioredis) ⭐ 15,351 | 🐛 172 | 🌐 TypeScript | 📅 2026-10-30
     * MongoDB ORM - [Mongooose](http://mongoosejs.com/)
     * DynamoDB ORM - [vogels](https://www.npmjs.com/package/vogels)
     * HBase Client - [hbase](https://www.npmjs.com/package/hbase)
@@ -1765,7 +1765,7 @@ A Subset for **Architecture and Infrastructure**
   * [csv](https://www.npmjs.com/package/csv)
   * [xml2js](https://www.npmjs.com/package/xml2js)
 * NLP
-  * [natural](https://github.com/NaturalNode/natural) ⭐ 10,884 | 🐛 77 | 🌐 JavaScript | 📅 2026-10-26 / [retext](https://github.com/wooorm/retext) ⭐ 2,433 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 / [NodeJieba](https://github.com/yanyiwu/nodejieba) ⭐ 3,233 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-12
+  * [natural](https://github.com/NaturalNode/natural) ⭐ 10,884 | 🐛 77 | 🌐 JavaScript | 📅 2026-10-26 / [retext](https://github.com/wooorm/retext) ⭐ 2,433 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 / [NodeJieba](https://github.com/yanyiwu/nodejieba) ⭐ 3,232 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-12
 
 \>> Return to [Table of Contents](#table-of-contents)
 
@@ -1907,7 +1907,7 @@ A Subset for **Architecture and Infrastructure**
 ### Testing
 
 * Unit Testing / Test Runner
-  * [AVA](https://github.com/avajs/ava) ⭐ 20,826 | 🐛 66 | 🌐 JavaScript | 📅 2026-10-27
+  * [AVA](https://github.com/avajs/ava) ⭐ 20,827 | 🐛 66 | 🌐 JavaScript | 📅 2026-10-27
   * [Jest](https://facebook.github.io/jest/)
   * [Mocha](https://mochajs.org/) + [Chai](http://chaijs.com/)
   * [Cypress](https://www.cypress.io/)
@@ -1920,16 +1920,16 @@ A Subset for **Architecture and Infrastructure**
       * [redux-testkit](https://www.npmjs.com/package/redux-testkit)
   * Functional Testing / E2E Testing
     * Headless Browser Automation
-      * WebDriver API - [Selenium WebDriverJS](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) ⭐ 34,573 | 🐛 191 | 🌐 Java | 📅 2026-10-30 / [WebDriverIO](http://webdriver.io/) / [Nightwatch.js](http://nightwatchjs.org/) / [CasperJS](http://casperjs.org/) / [Protractor](http://www.protractortest.org/)
+      * WebDriver API - [Selenium WebDriverJS](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) ⭐ 34,579 | 🐛 194 | 🌐 Java | 📅 2026-10-31 / [WebDriverIO](http://webdriver.io/) / [Nightwatch.js](http://nightwatchjs.org/) / [CasperJS](http://casperjs.org/) / [Protractor](http://www.protractortest.org/)
         * AWS Lambda - [Lambdium](https://github.com/smithclay/lambdium) ⚠️ Archived
       * DevTools API
-        * Headless Chrome - [Puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,771 | 🐛 214 | 🌐 TypeScript | 📅 2026-10-30 / [Chromy](https://www.npmjs.com/package/chromy)
+        * Headless Chrome - [Puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,776 | 🐛 214 | 🌐 TypeScript | 📅 2026-10-30 / [Chromy](https://www.npmjs.com/package/chromy)
           * [End-to-end Tests that Don’t Suck with Puppeteer](https://ropig.com/blog/end-end-tests-dont-suck-puppeteer/)
           * AWS Lambda - [Chromeless](https://www.npmjs.com/package/chromeless)
         * electron-prebuilt - [Nightmare](https://github.com/segmentio/nightmare)
     * Cloud - [BrowserStack Automate](https://www.browserstack.com/automate) / [Sauce Labs](https://saucelabs.com/open-source#automated-testing-platform)
   * Visual Testing
-    * [React Storybook](https://storybooks.js.org/) / [React Cosmos](https://github.com/react-cosmos/react-cosmos) ⭐ 8,692 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-30
+    * [React Storybook](https://storybooks.js.org/) / [React Cosmos](https://github.com/react-cosmos/react-cosmos) ⭐ 8,693 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-30
     * [BrowserStack](https://www.browserstack.com/)
   * Monkey Testing
     * [gremlins.js](https://www.npmjs.com/package/gremlins.js)
@@ -1954,10 +1954,10 @@ A Subset for **Architecture and Infrastructure**
 * Benchmark Testing
   * JS
     * [stats.js](https://github.com/mrdoob/stats.js) ⭐ 9,155 | 🐛 23 | 🌐 JavaScript | 📅 2024-10-11
-    * [Speedracer](https://github.com/ngryman/speedracer) ⭐ 1,848 | 🐛 7 | 🌐 JavaScript | 📅 2022-07-24
+    * [Speedracer](https://github.com/ngryman/speedracer) ⭐ 1,850 | 🐛 7 | 🌐 JavaScript | 📅 2022-07-24
     * [Benchmark.js](https://benchmarkjs.com/)
   * Network
-    * [wrk](https://github.com/wg/wrk) ⭐ 40,425 | 🐛 203 | 🌐 C | 📅 2023-12-30 / [httpstat](https://github.com/reorx/httpstat) ⭐ 6,220 | 🐛 9 | 🌐 Python | 📅 2026-04-08
+    * [wrk](https://github.com/wg/wrk) ⭐ 40,424 | 🐛 203 | 🌐 C | 📅 2023-12-30 / [httpstat](https://github.com/reorx/httpstat) ⭐ 6,221 | 🐛 9 | 🌐 Python | 📅 2026-04-08
 * [Test Doubles](https://martinfowler.com/bliki/TestDouble.html) ([Fakes, Mocks, Stubs](https://dev.to/milipski/test-doubles---fakes-mocks-and-stubs) and Spies)
   * Fake Data
     * [Faker.js](https://github.com/Marak/Faker.js) / [Chance.js](http://chancejs.com/)
@@ -1990,7 +1990,7 @@ A Subset for **Architecture and Infrastructure**
   * [ESDoc](https://esdoc.org/)
   * [React DocGen](https://www.npmjs.com/package/react-docgen)
 * API
-  * [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager) ⭐ 8,169 | 🐛 106 | 🌐 TypeScript | 📅 2026-05-12
+  * [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager) ⭐ 8,172 | 🐛 106 | 🌐 TypeScript | 📅 2026-05-12
   * [apiDoc](http://apidocjs.com/)
 * CLI
   * [Ronn](http://rtomayko.github.io/ronn/)
@@ -2011,9 +2011,9 @@ A Subset for **Architecture and Infrastructure**
 ### Toolchain
 
 * Compiler / Transpiler / Preprocessor
-  * [PostCSS](https://github.com/postcss/postcss) ⭐ 28,966 | 🐛 31 | 🌐 TypeScript | 📅 2026-10-26
+  * [PostCSS](https://github.com/postcss/postcss) ⭐ 28,966 | 🐛 30 | 🌐 TypeScript | 📅 2026-10-30
     * Standards
-      * [Autoprefixer](https://github.com/postcss/autoprefixer) ⭐ 22,198 | 🐛 36 | 🌐 JavaScript | 📅 2026-10-26
+      * [Autoprefixer](https://github.com/postcss/autoprefixer) ⭐ 22,199 | 🐛 36 | 🌐 JavaScript | 📅 2026-10-26
       * [CSSNext](http://cssnext.io/) / [postcss-preset-env](https://preset-env.cssdb.org/)
       * [Will Change](https://www.npmjs.com/package/postcss-will-change)
       * [Normalize](https://www.npmjs.com/package/postcss-normalize)
@@ -2037,13 +2037,13 @@ A Subset for **Architecture and Infrastructure**
     * [Babel User Handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/user-handbook.md) ⭐ 12,091 | 🐛 109 | 📅 2024-06-25, [Babel Plugin Handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/plugin-handbook.md) ⭐ 12,091 | 🐛 109 | 📅 2024-06-25
     * [Setting up ES6](https://leanpub.com/setting-up-es6/read)
     * Presets
-      * [React Optimize](https://github.com/thejameskyle/babel-react-optimize) ⭐ 1,663 | 🐛 20 | 🌐 JavaScript | 📅 2017-04-06
+      * [React Optimize](https://github.com/thejameskyle/babel-react-optimize) ⭐ 1,664 | 🐛 20 | 🌐 JavaScript | 📅 2017-04-06
       * [Preset Env](https://babeljs.io/docs/en/next/babel-preset-env.html)
         * [Browserslist](https://github.com/ai/browserslist) ⭐ 13,576 | 🐛 44 | 🌐 JavaScript | 📅 2026-10-26
       * [Preset React](http://babeljs.io/docs/plugins/preset-react/)
     * Plugins
       * Proposals
-        * Shims - [@babel/polyfill](https://github.com/babel/babel/tree/master/packages/babel-polyfill) ⭐ 44,056 | 🐛 749 | 🌐 TypeScript | 📅 2026-10-30 ([useBuiltIns](https://babeljs.io/docs/en/next/babel-preset-env.html#usebuiltins)) / [core-js](https://github.com/zloirock/core-js) ⭐ 25,524 | 🐛 46 | 🌐 JavaScript | 📅 2026-10-30
+        * Shims - [@babel/polyfill](https://github.com/babel/babel/tree/master/packages/babel-polyfill) ⭐ 44,054 | 🐛 739 | 🌐 TypeScript | 📅 2026-10-31 ([useBuiltIns](https://babeljs.io/docs/en/next/babel-preset-env.html#usebuiltins)) / [core-js](https://github.com/zloirock/core-js) ⭐ 25,524 | 🐛 46 | 🌐 JavaScript | 📅 2026-10-31
           * async/await - [fast-async](https://github.com/MatAtBread/fast-async) ⭐ 598 | 🐛 6 | 🌐 JavaScript | 📅 2018-10-08 ([NoDent](https://www.npmjs.com/package/nodent))
         * [Babel progress on ECMAScript proposals](https://github.com/babel/proposals) ⭐ 433 | 🐛 63 | 📅 2022-01-18
         * [Stage 3](http://babeljs.io/docs/plugins/preset-stage-3/), [Stage 2](http://babeljs.io/docs/plugins/preset-stage-2/), [Stage 1](http://babeljs.io/docs/plugins/preset-stage-1/), [Stage 0](http://babeljs.io/docs/plugins/preset-stage-0/)
@@ -2068,7 +2068,7 @@ A Subset for **Architecture and Infrastructure**
   * [PostHTML](https://www.npmjs.com/package/posthtml)
 * Loader / Builder / Bundler
   * [Webpack](https://webpack.js.org/concepts/)
-    * [webpack-howto](https://github.com/petehunt/webpack-howto) ⭐ 9,990 | 🐛 51 | 🌐 JavaScript | 📅 2017-08-11
+    * [webpack-howto](https://github.com/petehunt/webpack-howto) ⭐ 9,989 | 🐛 51 | 🌐 JavaScript | 📅 2017-08-11
       * [webpack-blocks](https://github.com/andywer/webpack-blocks) ⭐ 2,961 | 🐛 29 | 🌐 JavaScript | 📅 2026-01-30
       * [SurviveJS Webpack](https://survivejs.com/webpack/what-is-webpack/)
     * Loaders
@@ -2139,7 +2139,7 @@ A Subset for **Architecture and Infrastructure**
       * [fp](https://www.npmjs.com/package/eslint-plugin-fp), [lodash](https://www.npmjs.com/package/eslint-plugin-lodash), [lodash-fp](https://www.npmjs.com/package/eslint-plugin-lodash-fp), [immutable](https://www.npmjs.com/package/eslint-plugin-immutable)
       * [promise](https://www.npmjs.com/package/eslint-plugin-promise), [optimize-regex](https://www.npmjs.com/package/eslint-plugin-optimize-regex)
     * Presets
-      * [eslint-config-react-app](https://github.com/facebookincubator/create-react-app/tree/master/packages/eslint-config-react-app) ⭐ 103,233 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15
+      * [eslint-config-react-app](https://github.com/facebookincubator/create-react-app/tree/master/packages/eslint-config-react-app) ⭐ 103,235 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15
       * [eslint-config-webcube](./packages/eslint-config-webcube/) (Author's own project)
       * [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb)
   * [Flow](https://flow.org)
@@ -2151,7 +2151,7 @@ A Subset for **Architecture and Infrastructure**
     * [postcss-bem-linter](https://www.npmjs.com/package/postcss-bem-linter)
 * Minifier / Compressor / Optimizer
   * [HTMLMinifier](https://github.com/kangax/html-minifier) ⭐ 5,029 | 🐛 107 | 🌐 JavaScript | 📅 2026-10-07
-  * [babel-minify](https://github.com/babel/minify) ⭐ 4,365 | 🐛 201 | 🌐 JavaScript | 📅 2024-06-01 / [uglify-es](https://github.com/mishoo/UglifyJS2/tree/harmony) ⭐ 13,369 | 🐛 45 | 🌐 JavaScript | 📅 2024-11-22 / [UglifyJS 3](https://github.com/mishoo/UglifyJS2) ⭐ 13,369 | 🐛 45 | 🌐 JavaScript | 📅 2024-11-22 / [UglifyJS 2](https://github.com/mishoo/UglifyJS2/tree/v2.x) ⭐ 13,369 | 🐛 45 | 🌐 JavaScript | 📅 2024-11-22
+  * [babel-minify](https://github.com/babel/minify) ⭐ 4,365 | 🐛 201 | 🌐 JavaScript | 📅 2024-06-01 / [uglify-es](https://github.com/mishoo/UglifyJS2/tree/harmony) ⭐ 13,370 | 🐛 45 | 🌐 JavaScript | 📅 2024-11-22 / [UglifyJS 3](https://github.com/mishoo/UglifyJS2) ⭐ 13,370 | 🐛 45 | 🌐 JavaScript | 📅 2024-11-22 / [UglifyJS 2](https://github.com/mishoo/UglifyJS2/tree/v2.x) ⭐ 13,370 | 🐛 45 | 🌐 JavaScript | 📅 2024-11-22
   * [Prepack](https://prepack.io/)
   * [cssnano](http://cssnano.co/) / [clean-css](https://www.npmjs.com/package/clean-css) / [CSSO](https://www.npmjs.com/package/csso)
   * [Critical](https://www.npmjs.com/package/critical) / [Penthouse](https://www.npmjs.com/package/penthouse)
@@ -2168,13 +2168,13 @@ A Subset for **Architecture and Infrastructure**
       [How to Use npm as a Build Tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
       * [Why I Left Gulp and Grunt for npm Scripts](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8)
     * Git Hooks
-      * [Husky](https://github.com/typicode/husky) ⭐ 35,369 | 🐛 109 | 🌐 JavaScript | 📅 2026-03-19
+      * [Husky](https://github.com/typicode/husky) ⭐ 35,375 | 🐛 109 | 🌐 JavaScript | 📅 2026-03-19
       * [lint-staged](https://www.npmjs.com/package/lint-staged)
         * [Make linting great again!](https://medium.com/@okonetchnikov/make-linting-great-again-f3890e1ad6b8)
     * Environment Variables - [env-cmd](https://www.npmjs.com/package/env-cmd), [cross-env](https://www.npmjs.com/package/cross-env)
     * [get-port](https://www.npmjs.com/package/get-port), [public-ip](https://www.npmjs.com/package/public-ip)
   * [Gulp](http://gulpjs.com/)
-    * [Gulpfile API](https://github.com/gulpjs/gulp/blob/master/docs/API.md) ⭐ 32,915 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-09
+    * [Gulpfile API](https://github.com/gulpjs/gulp/blob/master/docs/API.md) ⭐ 32,917 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-09
     * [gulp - The vision, history, and future of the project](https://medium.com/@contrahacks/gulp-3828e8126466)
     * [Why you shouldn’t create a gulp plugin](http://blog.overzealous.com/post/74121048393/why-you-shouldnt-create-a-gulp-plugin-or-how-to)
     * Utilities
@@ -2208,20 +2208,20 @@ A Subset for **Architecture and Infrastructure**
     * Node.js - [nodemon](https://www.npmjs.com/package/nodemon)
   * Dev Tools
     * [Reactotron](https://github.com/infinitered/reactotron) ⭐ 15,595 | 🐛 155 | 🌐 TypeScript | 📅 2026-08-13
-    * [React Native Debugger](https://github.com/jhen0409/react-native-debugger) ⭐ 10,435 | 🐛 182 | 🌐 JavaScript | 📅 2023-10-21
+    * [React Native Debugger](https://github.com/jhen0409/react-native-debugger) ⭐ 10,434 | 🐛 182 | 🌐 JavaScript | 📅 2023-10-21
     * Electron - [Devtron](https://github.com/electron/devtron) ⭐ 1,775 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-29
     * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) / [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) / [Safari Web Inspector](https://developer.apple.com/library/content/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/) / [Microsoft Edge F12 Dev Tools](https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide)
       * Console - [Console API](https://developers.google.com/web/tools/chrome-devtools/console/console-reference), [Command Line API](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
     * Third-party Panels
-      * [Redux DevTools](https://github.com/gaearon/redux-devtools) ⭐ 14,371 | 🐛 147 | 🌐 TypeScript | 📅 2026-10-30
+      * [Redux DevTools](https://github.com/gaearon/redux-devtools) ⭐ 14,371 | 🐛 147 | 🌐 TypeScript | 📅 2026-10-31
       * [React DevTools](https://github.com/facebook/react-devtools) ⚠️ Archived / [AngularJS Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) / [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd) / [Vue.js DevTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-      * [Apollo Client Devtools](https://github.com/apollographql/apollo-client-devtools) ⭐ 1,528 | 🐛 55 | 🌐 TypeScript | 📅 2026-10-26, [GraphQL Network](https://github.com/Ghirro/graphql-network) ⭐ 319 | 🐛 26 | 🌐 JavaScript | 📅 2022-12-08
+      * [Apollo Client Devtools](https://github.com/apollographql/apollo-client-devtools) ⭐ 1,528 | 🐛 55 | 🌐 TypeScript | 📅 2026-10-31, [GraphQL Network](https://github.com/Ghirro/graphql-network) ⭐ 319 | 🐛 26 | 🌐 JavaScript | 📅 2022-12-08
       * [WebGL Insight](https://github.com/3Dparallax/insight/) ⭐ 914 | 🐛 22 | 🌐 JavaScript | 📅 2021-09-30, [Three.js Editor Extension](https://chrome.google.com/webstore/detail/threejs-editor-extension/fbgbekpggeldiacgjkacbkkcbjhmakea)
       * [Immutable DevTools](https://github.com/andrewdavey/immutable-devtools) ⭐ 671 | 🐛 11 | 🌐 JavaScript | 📅 2019-11-11, [Immutable.js Object Formatter](https://chrome.google.com/webstore/detail/immutablejs-object-format/hgldghadipiblonfkkicmgcbbijnpeog)
       * [React Perf](https://chrome.google.com/webstore/detail/react-perf/hacmcodfllhbnekmghgdlplbdnahmhmm)
       * [JWT Inspector](https://jwtinspector.io/)
   * HTTP Inspector
-    * [Paw](https://paw.cloud/) / [Postman](https://www.getpostman.com/) / [HTTPie](https://github.com/jakubroztocil/httpie) ⭐ 38,684 | 🐛 357 | 🌐 Python | 📅 2024-12-17
+    * [Paw](https://paw.cloud/) / [Postman](https://www.getpostman.com/) / [HTTPie](https://github.com/jakubroztocil/httpie) ⭐ 38,686 | 🐛 358 | 🌐 Python | 📅 2024-12-17
   * Debugging Proxy
     * [Tamper Chrome](https://github.com/google/tamperchrome) ⭐ 4,228 | 🐛 56 | 🌐 TypeScript | 📅 2026-02-26
     * [AnyProxy](http://anyproxy.io/en.html) / [Fiddler](http://www.telerik.com/fiddler)
@@ -2237,7 +2237,7 @@ A Subset for **Architecture and Infrastructure**
         * [Superstatic](https://www.npmjs.com/package/superstatic)
       * Object Storage + CDN
         * Global
-          * [Amazon S3 + CloudFront](http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html) - [aws-sdk](https://www.npmjs.com/package/aws-sdk) / [awscli](https://github.com/aws/aws-cli) ⭐ 17,335 | 🐛 769 | 🌐 Python | 📅 2026-10-30
+          * [Amazon S3 + CloudFront](http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html) - [aws-sdk](https://www.npmjs.com/package/aws-sdk) / [awscli](https://github.com/aws/aws-cli) ⭐ 17,334 | 🐛 771 | 🌐 Python | 📅 2026-10-30
           * [Google Cloud Storage + Cloud CDN](https://cloud.google.com/storage/docs/hosting-static-website) - [google-cloud](https://www.npmjs.com/package/google-cloud) / [gcloud](https://cloud.google.com/sdk/gcloud/)
           * [Firebase Hosting](https://firebase.google.com/products/hosting/) - [firebase-tools](https://www.npmjs.com/package/firebase-tools)
           * [Netlify](https://www.netlify.com/) - [netlify-cli](https://www.npmjs.com/package/netlify-cli)
@@ -2247,7 +2247,7 @@ A Subset for **Architecture and Infrastructure**
           * [腾讯云 COS + CDN](https://www.qcloud.com/document/product/436/9512) - [cos-nodejs-sdk-v5](https://www.npmjs.com/package/cos-nodejs-sdk-v5)
     * Packaged App
       * [Electron Builder](https://www.npmjs.com/package/electron-builder)
-        * [Auto Update](https://github.com/electron-userland/electron-builder/wiki/Auto-Update) ⭐ 14,693 | 🐛 58 | 🌐 TypeScript | 📅 2026-10-30
+        * [Auto Update](https://github.com/electron-userland/electron-builder/wiki/Auto-Update) ⭐ 14,694 | 🐛 45 | 🌐 TypeScript | 📅 2026-10-31
       * [CodePush](https://www.npmjs.com/package/react-native-code-push)
   * DevOps
     * Process Supervisor
@@ -2257,14 +2257,14 @@ A Subset for **Architecture and Infrastructure**
     * Containers
       * [Docker](https://docs.docker.com/engine/reference/builder/)
         * Learning
-          * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) ⭐ 22,557 | 🐛 7 | 📅 2024-12-31 / [Docker Cheat Sheet](http://docker.jens-piegsa.com/)
-          * [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum) ⭐ 6,128 | 🐛 23 | 🌐 CSS | 📅 2026-10-23
+          * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) ⭐ 22,558 | 🐛 7 | 📅 2024-12-31 / [Docker Cheat Sheet](http://docker.jens-piegsa.com/)
+          * [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum) ⭐ 6,126 | 🐛 23 | 🌐 CSS | 📅 2026-10-23
           * [Play with docker classroom](http://training.play-with-docker.com/)
         * [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
         * [Docker run reference](https://docs.docker.com/engine/reference/run/)
         * [Docker Compose](https://docs.docker.com/compose/overview/)
       * Docker Images
-        * [node](https://github.com/nodejs/docker-node) ⭐ 8,597 | 🐛 32 | 🌐 Dockerfile | 📅 2026-10-28 / [risingstack/alpine](https://hub.docker.com/r/risingstack/alpine/) / [keymetrics/pm2-docker-alpine](https://hub.docker.com/r/keymetrics/pm2-docker-alpine/)
+        * [node](https://github.com/nodejs/docker-node) ⭐ 8,597 | 🐛 35 | 🌐 Dockerfile | 📅 2026-10-28 / [risingstack/alpine](https://hub.docker.com/r/risingstack/alpine/) / [keymetrics/pm2-docker-alpine](https://hub.docker.com/r/keymetrics/pm2-docker-alpine/)
         * [docker-lambda](https://github.com/lambci/docker-lambda) ⚠️ Archived
     * Container Clusters
       * [Docker Engine in Swarm Mode](https://docs.docker.com/engine/swarm/)
@@ -2306,21 +2306,21 @@ A Subset for **Architecture and Infrastructure**
 ### Command-line Environment (Mac)
 
 * Intro
-  * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,632 | 🐛 256 | 📅 2024-06-25
+  * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,643 | 🐛 256 | 📅 2024-06-25
   * [The Bash Guide](http://guide.bash.academy/)
   * [Linux Shell Scripting Tutorial (LSST)](https://bash.cyberciti.biz/guide/Main_Page)
 * Terminal
   * [iTerm2](https://www.iterm2.com/)
-    * [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) ⭐ 27,305 | 🐛 1 | 🌐 Shell | 📅 2026-10-29
+    * [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) ⭐ 27,305 | 🐛 3 | 🌐 Shell | 📅 2026-10-31
   * [Hyper](https://hyper.is/)
-    * [Awesome Hyper](https://github.com/bnb/awesome-hyper) ⭐ 11,015 | 🐛 25 | 📅 2022-09-20
+    * [Awesome Hyper](https://github.com/bnb/awesome-hyper) ⭐ 11,016 | 🐛 25 | 📅 2022-09-20
 * Package Manager
   * [Homebrew](https://brew.sh/)
 * Shell
-  * [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) ⭐ 190,250 | 🐛 303 | 🌐 Shell | 📅 2026-10-27
+  * [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) ⭐ 190,265 | 🐛 303 | 🌐 Shell | 📅 2026-10-27
   * [Spaceship ZSH Theme](https://github.com/denysdovhan/spaceship-zsh-theme) ⭐ 20,601 | 🐛 131 | 🌐 Shell | 📅 2026-10-26
   * Zsh Plugins
-    * [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins) ⭐ 18,098 | 🐛 8 | 🌐 Shell | 📅 2026-10-27
+    * [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins) ⭐ 18,099 | 🐛 7 | 🌐 Shell | 📅 2026-10-31
     * [zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) ⭐ 501 | 🐛 12 | 🌐 Shell | 📅 2024-10-31
 * Vim
   * [spf13-vim](https://github.com/spf13/spf13-vim) ⭐ 15,467 | 🐛 346 | 🌐 Vim Script | 📅 2026-06-12 / [YVim](https://github.com/dexteryy/YVim) ⭐ 80 | 🐛 1 | 🌐 Vim script | 📅 2017-04-04
@@ -2333,10 +2333,10 @@ A Subset for **Architecture and Infrastructure**
 * [Docker for Mac](https://docs.docker.com/docker-for-mac/)
 * [dotfiles](https://dotfiles.github.io/)
 * Utilities
-  * Finding - [rg (ripgrep)](https://github.com/BurntSushi/ripgrep) ⭐ 69,574 | 🐛 212 | 🌐 Rust | 📅 2026-10-27 / [ag (The Silver Searcher)](https://github.com/ggreer/the_silver_searcher) ⭐ 27,125 | 🐛 564 | 🌐 C | 📅 2024-06-16, [peco](https://github.com/peco/peco) ⭐ 7,909 | 🐛 2 | 🌐 Go | 📅 2026-10-27, [jq](https://stedolan.github.io/jq), [fzf](https://github.com/junegunn/fzf) ⭐ 83,867 | 🐛 337 | 🌐 Go | 📅 2026-10-29
-  * Help - [tldr](https://github.com/tldr-pages/tldr) ⭐ 64,087 | 🐛 293 | 🌐 Markdown | 📅 2026-10-30 / [howdoi](https://github.com/gleitz/howdoi) ⭐ 10,840 | 🐛 19 | 🌐 Python | 📅 2026-09-30
-  * Processes - [glances](https://github.com/nicolargo/glances) ⭐ 33,876 | 🐛 114 | 🌐 Python | 📅 2026-10-29 / [vtop](https://www.npmjs.com/package/vtop), [fkill](https://www.npmjs.com/package/fkill-cli)
-  * Analysis - [cloc](https://github.com/AlDanial/cloc/) ⭐ 23,636 | 🐛 26 | 🌐 Perl | 📅 2026-10-26
+  * Finding - [rg (ripgrep)](https://github.com/BurntSushi/ripgrep) ⭐ 69,591 | 🐛 214 | 🌐 Rust | 📅 2026-10-27 / [ag (The Silver Searcher)](https://github.com/ggreer/the_silver_searcher) ⭐ 27,126 | 🐛 564 | 🌐 C | 📅 2024-06-16, [peco](https://github.com/peco/peco) ⭐ 7,908 | 🐛 2 | 🌐 Go | 📅 2026-10-27, [jq](https://stedolan.github.io/jq), [fzf](https://github.com/junegunn/fzf) ⭐ 83,880 | 🐛 336 | 🌐 Go | 📅 2026-10-29
+  * Help - [tldr](https://github.com/tldr-pages/tldr) ⭐ 64,092 | 🐛 298 | 🌐 Markdown | 📅 2026-10-31 / [howdoi](https://github.com/gleitz/howdoi) ⭐ 10,840 | 🐛 19 | 🌐 Python | 📅 2026-09-30
+  * Processes - [glances](https://github.com/nicolargo/glances) ⭐ 33,882 | 🐛 114 | 🌐 Python | 📅 2026-10-31 / [vtop](https://www.npmjs.com/package/vtop), [fkill](https://www.npmjs.com/package/fkill-cli)
+  * Analysis - [cloc](https://github.com/AlDanial/cloc/) ⭐ 23,637 | 🐛 26 | 🌐 Perl | 📅 2026-10-26
 
 \>> Return to [Table of Contents](#table-of-contents)
 
@@ -2562,11 +2562,11 @@ A Subset for **Architecture and Infrastructure**
   * GUI
     * [SourceTree](https://www.sourcetreeapp.com/)
   * Github
-    * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 60,048 | 🐛 50 | 📅 2024-04-15
+    * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 60,068 | 🐛 50 | 📅 2024-04-15
     * [Github Help](https://help.github.com/)
     * [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
     * Chrome Extensions
-      * [OctoLinker](https://octolinker.github.io/), [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,292 | 🐛 1 | 🌐 JavaScript | 📅 2024-06-06, [Code Climate](https://codeclimate.com/browser-extension/)
+      * [OctoLinker](https://octolinker.github.io/), [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,293 | 🐛 1 | 🌐 JavaScript | 📅 2024-06-06, [Code Climate](https://codeclimate.com/browser-extension/)
       * [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github) ⭐ 3,317 | 🐛 30 | 🌐 JavaScript | 📅 2024-08-18
 * ChatOps
   * [What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/), \
@@ -2585,10 +2585,10 @@ A Subset for **Architecture and Infrastructure**
     * [Mermaid](https://mermaidjs.github.io/)
       * [Mermaid Live Editor](https://mermaidjs.github.io/mermaid-live-editor/)
   * Slides
-    * [Remark](https://github.com/gnab/remark) ⭐ 13,006 | 🐛 181 | 🌐 JavaScript | 📅 2024-06-19
+    * [Remark](https://github.com/gnab/remark) ⭐ 13,004 | 🐛 181 | 🌐 JavaScript | 📅 2024-06-19
       * [remarker](https://github.com/kt3k/remarker) ⭐ 141 | 🐛 4 | 🌐 JavaScript | 📅 2024-07-13
 * Design
-  * [After Effects](http://www.adobe.com/products/aftereffects.html) + [Lottie](https://airbnb.design/lottie/) / [bodymovin](https://github.com/bodymovin/bodymovin) ⭐ 32,291 | 🐛 861 | 🌐 JavaScript | 📅 2025-09-01 / [Inspector Spacetime](https://google.github.io/inspectorspacetime/) + [Sketch2AE](https://google.github.io/sketch2ae/)
+  * [After Effects](http://www.adobe.com/products/aftereffects.html) + [Lottie](https://airbnb.design/lottie/) / [bodymovin](https://github.com/bodymovin/bodymovin) ⭐ 32,308 | 🐛 861 | 🌐 JavaScript | 📅 2025-09-01 / [Inspector Spacetime](https://google.github.io/inspectorspacetime/) + [Sketch2AE](https://google.github.io/sketch2ae/)
   * [Sketch](https://www.sketchapp.com/learn/) / [Figma](https://www.figma.com/)
   * [InVision](https://www.invisionapp.com/) / [Atomic](https://atomic.io/) / [Proto.io](https://proto.io/)
   * [Zeplin](https://zeplin.io/) / [Sympli](https://sympli.io/) / [Avocode](https://avocode.com/)
@@ -2597,4 +2597,4 @@ A Subset for **Architecture and Infrastructure**
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
